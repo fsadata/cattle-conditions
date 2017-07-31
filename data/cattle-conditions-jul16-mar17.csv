@@ -1,0 +1,1379 @@
+Species,InspectionType,Condition,YearMonth,Country,NumberOfConditions,Throughput,NumberOfThroughputPlants,PercentageOfThroughput
+Bison,AM,Emergency Slaughter on Farm ,2016-11,Wales,2,2,1,100
+Bison,Carcases,Other,2016-10,England,1,2,1,50
+Bison,Offal,Fluke Immature,2016-11,England,1,1,1,100
+Bison,Offal,Fluke Immature,2017-01,England,1,2,1,50
+Bison,Offal,Fluke Mature,2017-03,England,2,3,1,66.667
+Bison,Offal,Liver Abscesses,2016-10,England,1,2,1,50
+Bison,Offal,Liver Abscesses,2016-11,Wales,1,2,1,50
+Buffalo,AM,Peri-parturition,2016-10,England,1,77,6,1.299
+Buffalo,Carcases,Abscesses ? Forequarters,2016-09,England,1,54,3,1.852
+Buffalo,Carcases,Bruising,2016-08,England,1,98,3,1.02
+Buffalo,Carcases,Bruising,2016-11,England,1,86,4,1.163
+Buffalo,Carcases,Contamination,2017-02,England,2,27,3,7.407
+Buffalo,Carcases,Other,2016-07,England,10,44,3,22.727
+Buffalo,Carcases,Other,2016-08,England,2,98,3,2.041
+Buffalo,Carcases,Other,2016-11,England,1,86,4,1.163
+Buffalo,Carcases,Other,2017-02,England,1,27,3,3.704
+Buffalo,Head,Contamination,2016-11,England,1,86,4,1.163
+Buffalo,Head,Other,2016-09,England,1,54,3,1.852
+Buffalo,Offal,Contamination,2016-11,England,11,86,4,12.791
+Buffalo,Offal,Contamination,2016-12,England,2,11,3,18.182
+Buffalo,Offal,Contamination,2017-01,England,2,33,3,6.061
+Buffalo,Offal,Contamination,2017-02,England,4,27,3,14.815
+Buffalo,Offal,Contamination,2017-03,England,3,29,3,10.345
+Buffalo,Offal,Fluke Mature,2017-01,England,2,33,3,6.061
+Buffalo,Offal,Fluke Mature,2017-01,Wales,1,1,1,100
+Buffalo,Offal,Hepatic Scarring,2016-09,England,1,54,3,1.852
+Buffalo,Offal,Hepatic Scarring,2016-11,England,1,86,4,1.163
+Buffalo,Offal,Hepatic Scarring,2016-12,England,1,11,3,9.091
+Buffalo,Offal,Hepatic Scarring,2017-03,England,3,29,3,10.345
+Buffalo,Offal,Liver Abscesses,2016-07,England,1,44,3,2.273
+Buffalo,Offal,Other,2016-07,England,1,44,3,2.273
+Buffalo,Offal,Other,2016-08,England,7,98,3,7.143
+Buffalo,Offal,Other,2016-09,England,9,54,3,16.667
+Buffalo,Offal,Other,2016-10,England,25,77,6,32.468
+Buffalo,Offal,Other,2016-11,England,16,86,4,18.605
+Buffalo,Offal,Other,2017-01,England,2,33,3,6.061
+Buffalo,Offal,Other,2017-02,England,3,27,3,11.111
+Buffalo,Offal,Other,2017-01,Wales,1,1,1,100
+Buffalo,Offal,Pleurisy,2016-07,England,2,44,3,4.545
+Buffalo,Offal,Pleurisy,2016-11,England,3,86,4,3.488
+Buffalo,Offal,Pleurisy,2017-01,Wales,1,1,1,100
+Buffalo,Offal,Pneumonia,2016-08,England,1,98,3,1.02
+Buffalo,Offal,Pneumonia,2017-01,Wales,1,1,1,100
+Buffalo,Offal,Traumatic Pericarditis,2016-08,England,2,98,3,2.041
+Buffalo,Offal,Traumatic Pericarditis,2016-09,England,5,54,3,9.259
+Buffalo,Offal,Traumatic Pericarditis,2016-10,England,4,77,6,5.195
+Buffalo,Offal,Traumatic Pericarditis,2016-11,England,6,86,4,6.977
+Buffalo,Offal,Traumatic Pericarditis,2017-01,England,1,33,3,3.03
+Buffalo,Offal,Traumatic Pericarditis,2017-03,England,2,29,3,6.897
+Calves,AM,Abnormal Respiratory Signs,2016-07,England,8,3669,32,0.218
+Calves,AM,Abnormal Respiratory Signs,2016-08,England,4,4907,29,0.082
+Calves,AM,Abnormal Respiratory Signs,2016-09,England,19,9337,31,0.203
+Calves,AM,Abnormal Respiratory Signs,2016-10,England,25,8104,32,0.308
+Calves,AM,Abnormal Respiratory Signs,2016-11,England,35,7249,30,0.483
+Calves,AM,Abnormal Respiratory Signs,2016-12,England,31,6211,28,0.499
+Calves,AM,Abnormal Respiratory Signs,2017-01,England,19,5889,29,0.323
+Calves,AM,Abnormal Respiratory Signs,2017-02,England,22,8248,29,0.267
+Calves,AM,Abnormal Respiratory Signs,2017-03,England,11,12236,29,0.09
+Calves,AM,Abnormal Respiratory Signs,2016-08,Wales,4,1701,3,0.235
+Calves,AM,Abnormal Respiratory Signs,2016-09,Wales,4,1356,5,0.295
+Calves,AM,Abnormal Respiratory Signs,2016-11,Wales,1,677,3,0.148
+Calves,AM,Abnormal Respiratory Signs,2016-12,Wales,1,380,2,0.263
+Calves,AM,Abnormal Respiratory Signs,2017-01,Wales,1,626,2,0.16
+Calves,AM,Abnormal Swelling (e.g.Bloat) ,2016-07,England,2,3669,32,0.055
+Calves,AM,Abnormal Swelling (e.g.Bloat) ,2016-09,England,1,9337,31,0.011
+Calves,AM,Abnormal Swelling (e.g.Bloat) ,2016-10,England,1,8104,32,0.012
+Calves,AM,Abnormal Swelling (e.g.Bloat) ,2016-11,England,2,7249,30,0.028
+Calves,AM,Abnormal Swelling (e.g.Bloat) ,2017-01,England,2,5889,29,0.034
+Calves,AM,Abnormal Swelling (e.g.Bloat) ,2017-02,England,5,8248,29,0.061
+Calves,AM,Dead in Lairage (DIL),2017-02,England,2,8248,29,0.024
+Calves,AM,Dead on Arrival (DOA),2016-11,England,2,7249,30,0.028
+Calves,AM,Dead on Arrival (DOA),2016-12,England,2,6211,28,0.032
+Calves,AM,Dead on Arrival (DOA),2017-01,England,2,5889,29,0.034
+Calves,AM,Dermatitis,2016-07,England,3,3669,32,0.082
+Calves,AM,Dermatitis,2016-08,England,4,4907,29,0.082
+Calves,AM,Dermatitis,2016-09,England,7,9337,31,0.075
+Calves,AM,Dermatitis,2016-10,England,6,8104,32,0.074
+Calves,AM,Dermatitis,2017-01,England,1,5889,29,0.017
+Calves,AM,Dermatitis,2017-02,England,2,8248,29,0.024
+Calves,AM,Dermatitis,2017-03,England,2,12236,29,0.016
+Calves,AM,Dermatitis,2016-08,Wales,1,1701,3,0.059
+Calves,AM,Dermatitis,2016-11,Wales,1,677,3,0.148
+Calves,AM,Diarrhoea,2016-07,England,9,3669,32,0.245
+Calves,AM,Diarrhoea,2016-08,England,2,4907,29,0.041
+Calves,AM,Diarrhoea,2016-09,England,7,9337,31,0.075
+Calves,AM,Diarrhoea,2016-10,England,17,8104,32,0.21
+Calves,AM,Diarrhoea,2016-11,England,12,7249,30,0.166
+Calves,AM,Diarrhoea,2016-12,England,5,6211,28,0.081
+Calves,AM,Diarrhoea,2017-01,England,5,5889,29,0.085
+Calves,AM,Diarrhoea,2017-02,England,5,8248,29,0.061
+Calves,AM,Diarrhoea,2017-03,England,3,12236,29,0.025
+Calves,AM,Diarrhoea,2016-09,Wales,2,1356,5,0.147
+Calves,AM,Ectoparasites ? Localised,2016-08,Wales,1,1701,3,0.059
+Calves,AM,Ectoparasites ? Localised,2016-11,Wales,1,677,3,0.148
+Calves,AM,Emergency Slaughter on Farm ,2016-10,England,2,8104,32,0.025
+Calves,AM,Emergency Slaughter on Farm ,2016-11,England,1,7249,30,0.014
+Calves,AM,Eye Condition,2016-07,England,2,3669,32,0.055
+Calves,AM,Eye Condition,2016-08,England,1,4907,29,0.02
+Calves,AM,Eye Condition,2016-09,England,9,9337,31,0.096
+Calves,AM,Eye Condition,2016-10,England,1,8104,32,0.012
+Calves,AM,Eye Condition,2016-12,England,3,6211,28,0.048
+Calves,AM,Eye Condition,2017-02,England,3,8248,29,0.036
+Calves,AM,Eye Condition,2017-03,England,7,12236,29,0.057
+Calves,AM,Eye Condition,2017-01,Wales,1,626,2,0.16
+Calves,AM,Lameness ? Foot Lesion(s),2016-08,England,2,4907,29,0.041
+Calves,AM,Lameness ? Foot Lesion(s),2016-09,England,3,9337,31,0.032
+Calves,AM,Lameness ? Foot Lesion(s),2016-11,England,2,7249,30,0.028
+Calves,AM,Lameness ? Foot Lesion(s),2016-12,England,1,6211,28,0.016
+Calves,AM,Lameness ? Foot Lesion(s),2017-01,England,1,5889,29,0.017
+Calves,AM,Lameness ? Foot Lesion(s),2017-02,England,3,8248,29,0.036
+Calves,AM,Lameness ? Foot Lesion(s),2017-03,England,1,12236,29,0.008
+Calves,AM,Lameness ? Foot Lesion(s),2016-08,Wales,2,1701,3,0.118
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2016-07,England,2,3669,32,0.055
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2016-08,England,1,4907,29,0.02
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2016-09,England,3,9337,31,0.032
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2016-10,England,11,8104,32,0.136
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2016-11,England,3,7249,30,0.041
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2016-12,England,14,6211,28,0.225
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2017-01,England,6,5889,29,0.102
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2017-02,England,14,8248,29,0.17
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2017-03,England,2,12236,29,0.016
+Calves,AM,Lameness ? Joint/Leg Lesion(s),2016-08,Wales,6,1701,3,0.353
+Calves,AM,Lameness ? Not Defined,2016-07,England,3,3669,32,0.082
+Calves,AM,Lameness ? Not Defined,2016-09,England,2,9337,31,0.021
+Calves,AM,Lameness ? Not Defined,2016-10,England,2,8104,32,0.025
+Calves,AM,Lameness ? Not Defined,2016-12,England,1,6211,28,0.016
+Calves,AM,Lameness ? Not Defined,2017-01,England,3,5889,29,0.051
+Calves,AM,Localised Swelling/Lumps,2016-07,England,2,3669,32,0.055
+Calves,AM,Localised Swelling/Lumps,2016-08,England,4,4907,29,0.082
+Calves,AM,Localised Swelling/Lumps,2016-09,England,2,9337,31,0.021
+Calves,AM,Localised Swelling/Lumps,2016-10,England,2,8104,32,0.025
+Calves,AM,Localised Swelling/Lumps,2016-11,England,1,7249,30,0.014
+Calves,AM,Localised Swelling/Lumps,2016-12,England,2,6211,28,0.032
+Calves,AM,Localised Swelling/Lumps,2017-02,England,2,8248,29,0.024
+Calves,AM,Localised Swelling/Lumps,2017-03,England,1,12236,29,0.008
+Calves,AM,Localised Swelling/Lumps,2016-07,Wales,1,799,4,0.125
+Calves,AM,Localised Swelling/Lumps,2016-11,Wales,1,677,3,0.148
+Calves,AM,Mastitis,2017-02,England,9,8248,29,0.109
+Calves,AM,Moribund/ Recumbent,2016-09,England,2,9337,31,0.021
+Calves,AM,Moribund/ Recumbent,2016-11,England,2,7249,30,0.028
+Calves,AM,Moribund/ Recumbent,2016-12,England,2,6211,28,0.032
+Calves,AM,Other,2016-07,England,3,3669,32,0.082
+Calves,AM,Other,2016-08,England,6,4907,29,0.122
+Calves,AM,Other,2016-09,England,3,9337,31,0.032
+Calves,AM,Other,2016-10,England,6,8104,32,0.074
+Calves,AM,Other,2016-11,England,15,7249,30,0.207
+Calves,AM,Other,2016-12,England,1,6211,28,0.016
+Calves,AM,Other,2017-01,England,2,5889,29,0.034
+Calves,AM,Other,2017-03,England,4,12236,29,0.033
+Calves,AM,Other,2016-07,Wales,3,799,4,0.375
+Calves,AM,Other,2017-01,Wales,132,626,2,21.086
+Calves,AM,Ringworm,2016-07,England,7,3669,32,0.191
+Calves,AM,Ringworm,2016-08,England,8,4907,29,0.163
+Calves,AM,Ringworm,2016-09,England,9,9337,31,0.096
+Calves,AM,Ringworm,2016-10,England,12,8104,32,0.148
+Calves,AM,Ringworm,2016-11,England,8,7249,30,0.11
+Calves,AM,Ringworm,2016-12,England,8,6211,28,0.129
+Calves,AM,Ringworm,2017-01,England,13,5889,29,0.221
+Calves,AM,Ringworm,2017-02,England,7,8248,29,0.085
+Calves,AM,Ringworm,2016-07,Wales,1,799,4,0.125
+Calves,AM,Ringworm,2016-08,Wales,1,1701,3,0.059
+Calves,AM,Ringworm,2016-09,Wales,1,1356,5,0.074
+Calves,AM,Ringworm,2017-01,Wales,1,626,2,0.16
+Calves,AM,Slaughtered in Lairage,2016-07,England,3,3669,32,0.082
+Calves,AM,Slaughtered in Lairage,2016-08,England,1,4907,29,0.02
+Calves,AM,Slaughtered in Lairage,2016-09,England,4,9337,31,0.043
+Calves,AM,Slaughtered in Lairage,2016-11,England,1,7249,30,0.014
+Calves,AM,Slaughtered in Lairage,2016-12,England,1,6211,28,0.016
+Calves,AM,Slaughtered in Lairage,2017-01,England,2,5889,29,0.034
+Calves,AM,Slaughtered in Lairage,2017-02,England,2,8248,29,0.024
+Calves,AM,Suspect Emaciation/Poor Condition,2016-08,England,1,4907,29,0.02
+Calves,AM,Suspect Emaciation/Poor Condition,2017-02,England,16,8248,29,0.194
+Calves,AM,Suspect Fever,2016-09,England,1,9337,31,0.011
+Calves,AM,Suspect Fever,2016-11,England,1,7249,30,0.014
+Calves,AM,Suspect Fever,2017-02,England,3,8248,29,0.036
+Calves,AM,Suspect Fever,2017-03,England,2,12236,29,0.016
+Calves,AM,Trauma ? Fracture/ Dislocations,2016-11,England,1,7249,30,0.014
+Calves,AM,Trauma ? Soft Tissue,2016-07,England,1,3669,32,0.027
+Calves,AM,Trauma ? Soft Tissue,2016-08,England,2,4907,29,0.041
+Calves,AM,Trauma ? Soft Tissue,2016-09,England,5,9337,31,0.054
+Calves,Carcases,Abscesses ? Forequarters,2016-07,England,6,3669,32,0.164
+Calves,Carcases,Abscesses ? Forequarters,2016-09,England,9,9337,31,0.096
+Calves,Carcases,Abscesses ? Forequarters,2016-10,England,11,8104,32,0.136
+Calves,Carcases,Abscesses ? Forequarters,2016-11,England,2,7249,30,0.028
+Calves,Carcases,Abscesses ? Forequarters,2016-12,England,2,6211,28,0.032
+Calves,Carcases,Abscesses ? Forequarters,2017-01,England,4,5889,29,0.068
+Calves,Carcases,Abscesses ? Forequarters,2017-02,England,5,8248,29,0.061
+Calves,Carcases,Abscesses ? Forequarters,2017-03,England,7,12236,29,0.057
+Calves,Carcases,Abscesses ? Hindquarters,2016-07,England,3,3669,32,0.082
+Calves,Carcases,Abscesses ? Hindquarters,2016-08,England,1,4907,29,0.02
+Calves,Carcases,Abscesses ? Hindquarters,2016-09,England,4,9337,31,0.043
+Calves,Carcases,Abscesses ? Hindquarters,2016-10,England,5,8104,32,0.062
+Calves,Carcases,Abscesses ? Hindquarters,2016-11,England,2,7249,30,0.028
+Calves,Carcases,Abscesses ? Hindquarters,2016-12,England,6,6211,28,0.097
+Calves,Carcases,Abscesses ? Hindquarters,2017-01,England,7,5889,29,0.119
+Calves,Carcases,Abscesses ? Hindquarters,2017-02,England,4,8248,29,0.048
+Calves,Carcases,Abscesses ? Hindquarters,2017-03,England,5,12236,29,0.041
+Calves,Carcases,Abscesses ? Hindquarters,2016-08,Wales,1,1701,3,0.059
+Calves,Carcases,Abscesses ? Hindquarters,2016-09,Wales,1,1356,5,0.074
+Calves,Carcases,Abscesses ? Neck,2016-07,England,1,3669,32,0.027
+Calves,Carcases,Abscesses ? Neck,2016-09,England,7,9337,31,0.075
+Calves,Carcases,Abscesses ? Neck,2016-10,England,3,8104,32,0.037
+Calves,Carcases,Abscesses ? Neck,2016-12,England,1,6211,28,0.016
+Calves,Carcases,Abscesses ? Neck,2017-03,England,2,12236,29,0.016
+Calves,Carcases,Abscesses ? Neck,2016-12,Wales,1,380,2,0.263
+Calves,Carcases,Bruising,2016-07,England,4,3669,32,0.109
+Calves,Carcases,Bruising,2016-08,England,5,4907,29,0.102
+Calves,Carcases,Bruising,2016-09,England,5,9337,31,0.054
+Calves,Carcases,Bruising,2016-10,England,11,8104,32,0.136
+Calves,Carcases,Bruising,2016-11,England,10,7249,30,0.138
+Calves,Carcases,Bruising,2016-12,England,6,6211,28,0.097
+Calves,Carcases,Bruising,2017-01,England,5,5889,29,0.085
+Calves,Carcases,Bruising,2017-02,England,2,8248,29,0.024
+Calves,Carcases,Bruising,2017-03,England,17,12236,29,0.139
+Calves,Carcases,Bruising,2016-08,Wales,1,1701,3,0.059
+Calves,Carcases,Bruising,2017-03,Wales,1,932,3,0.107
+Calves,Carcases,Contamination,2016-11,England,1,7249,30,0.014
+Calves,Carcases,Contamination,2016-12,England,23,6211,28,0.37
+Calves,Carcases,Contamination,2017-01,England,30,5889,29,0.509
+Calves,Carcases,Contamination,2017-02,England,190,8248,29,2.304
+Calves,Carcases,Contamination,2017-03,England,192,12236,29,1.569
+Calves,Carcases,Contamination,2016-12,Wales,4,380,2,1.053
+Calves,Carcases,Contamination,2017-02,Wales,5,514,2,0.973
+Calves,Carcases,Contamination,2017-03,Wales,13,932,3,1.395
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2016-07,England,4,3669,32,0.109
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2016-08,England,4,4907,29,0.082
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2016-09,England,6,9337,31,0.064
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2016-10,England,10,8104,32,0.123
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2016-11,England,6,7249,30,0.083
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2016-12,England,8,6211,28,0.129
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2017-01,England,7,5889,29,0.119
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2017-02,England,13,8248,29,0.158
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2017-03,England,20,12236,29,0.163
+Calves,Carcases,Joint Lesions (Incl. Arthritis),2016-11,Wales,1,677,3,0.148
+Calves,Carcases,Other,2016-07,England,32,3669,32,0.872
+Calves,Carcases,Other,2016-08,England,37,4907,29,0.754
+Calves,Carcases,Other,2016-09,England,49,9337,31,0.525
+Calves,Carcases,Other,2016-10,England,36,8104,32,0.444
+Calves,Carcases,Other,2016-11,England,24,7249,30,0.331
+Calves,Carcases,Other,2016-12,England,20,6211,28,0.322
+Calves,Carcases,Other,2017-01,England,39,5889,29,0.662
+Calves,Carcases,Other,2017-02,England,13,8248,29,0.158
+Calves,Carcases,Other,2017-03,England,15,12236,29,0.123
+Calves,Head,Contamination,2017-01,England,5,5889,29,0.085
+Calves,Head,Contamination,2017-02,England,6,8248,29,0.073
+Calves,Head,Contamination,2017-03,England,58,12236,29,0.474
+Calves,Head,Other,2016-08,England,4,4907,29,0.082
+Calves,Head,Other,2016-09,England,11,9337,31,0.118
+Calves,Head,Other,2016-10,England,8,8104,32,0.099
+Calves,Head,Other,2016-11,England,3,7249,30,0.041
+Calves,Head,Other,2016-12,England,5,6211,28,0.081
+Calves,Head,Other,2017-03,England,1,12236,29,0.008
+Calves,Head,Other,2016-07,Wales,2,799,4,0.25
+Calves,Head,Other,2016-09,Wales,1,1356,5,0.074
+Calves,Head,Other,2017-03,Wales,1,932,3,0.107
+Calves,Offal,Contamination,2016-11,England,10,7249,30,0.138
+Calves,Offal,Contamination,2016-12,England,25,6211,28,0.403
+Calves,Offal,Contamination,2017-01,England,133,5889,29,2.258
+Calves,Offal,Contamination,2017-02,England,122,8248,29,1.479
+Calves,Offal,Contamination,2017-03,England,228,12236,29,1.863
+Calves,Offal,Contamination,2016-11,Wales,7,677,3,1.034
+Calves,Offal,Contamination,2016-12,Wales,7,380,2,1.842
+Calves,Offal,Contamination,2017-01,Wales,3,626,2,0.479
+Calves,Offal,Contamination,2017-02,Wales,2,514,2,0.389
+Calves,Offal,Contamination,2017-03,Wales,5,932,3,0.536
+Calves,Offal,Fluke Immature,2016-07,England,9,3669,32,0.245
+Calves,Offal,Fluke Immature,2016-08,England,3,4907,29,0.061
+Calves,Offal,Fluke Immature,2016-09,England,28,9337,31,0.3
+Calves,Offal,Fluke Immature,2016-10,England,57,8104,32,0.703
+Calves,Offal,Fluke Immature,2016-11,England,37,7249,30,0.51
+Calves,Offal,Fluke Immature,2016-12,England,17,6211,28,0.274
+Calves,Offal,Fluke Immature,2017-01,England,26,5889,29,0.442
+Calves,Offal,Fluke Immature,2017-02,England,30,8248,29,0.364
+Calves,Offal,Fluke Immature,2017-03,England,28,12236,29,0.229
+Calves,Offal,Fluke Immature,2016-08,Wales,2,1701,3,0.118
+Calves,Offal,Fluke Immature,2016-12,Wales,3,380,2,0.789
+Calves,Offal,Fluke Immature,2017-02,Wales,5,514,2,0.973
+Calves,Offal,Fluke Immature,2017-03,Wales,1,932,3,0.107
+Calves,Offal,Fluke Mature,2016-07,England,2,3669,32,0.055
+Calves,Offal,Fluke Mature,2016-08,England,2,4907,29,0.041
+Calves,Offal,Fluke Mature,2016-09,England,27,9337,31,0.289
+Calves,Offal,Fluke Mature,2016-10,England,11,8104,32,0.136
+Calves,Offal,Fluke Mature,2016-11,England,6,7249,30,0.083
+Calves,Offal,Fluke Mature,2016-12,England,1,6211,28,0.016
+Calves,Offal,Fluke Mature,2017-01,England,45,5889,29,0.764
+Calves,Offal,Fluke Mature,2017-02,England,60,8248,29,0.727
+Calves,Offal,Fluke Mature,2017-03,England,34,12236,29,0.278
+Calves,Offal,Fluke Mature,2016-09,Wales,3,1356,5,0.221
+Calves,Offal,Fluke Mature,2016-10,Wales,1,709,4,0.141
+Calves,Offal,Fluke Mature,2017-01,Wales,8,626,2,1.278
+Calves,Offal,Hepatic Scarring,2016-07,England,1,3669,32,0.027
+Calves,Offal,Hepatic Scarring,2016-09,England,2,9337,31,0.021
+Calves,Offal,Hepatic Scarring,2016-12,England,1,6211,28,0.016
+Calves,Offal,Hepatic Scarring,2017-01,England,1,5889,29,0.017
+Calves,Offal,Hepatic Scarring,2017-03,England,7,12236,29,0.057
+Calves,Offal,Hydatid Cysts,2016-08,England,2,4907,29,0.041
+Calves,Offal,Hydatid Cysts,2017-03,England,1,12236,29,0.008
+Calves,Offal,Hydatid Cysts,2016-10,Wales,1,709,4,0.141
+Calves,Offal,Hydatid Cysts,2017-02,Wales,2,514,2,0.389
+Calves,Offal,Liver Abscesses,2016-07,England,19,3669,32,0.518
+Calves,Offal,Liver Abscesses,2016-08,England,29,4907,29,0.591
+Calves,Offal,Liver Abscesses,2016-09,England,47,9337,31,0.503
+Calves,Offal,Liver Abscesses,2016-10,England,29,8104,32,0.358
+Calves,Offal,Liver Abscesses,2016-11,England,13,7249,30,0.179
+Calves,Offal,Liver Abscesses,2016-12,England,23,6211,28,0.37
+Calves,Offal,Liver Abscesses,2017-01,England,15,5889,29,0.255
+Calves,Offal,Liver Abscesses,2017-02,England,21,8248,29,0.255
+Calves,Offal,Liver Abscesses,2017-03,England,22,12236,29,0.18
+Calves,Offal,Liver Abscesses,2016-07,Wales,2,799,4,0.25
+Calves,Offal,Liver Abscesses,2016-08,Wales,3,1701,3,0.176
+Calves,Offal,Liver Abscesses,2016-09,Wales,5,1356,5,0.369
+Calves,Offal,Liver Abscesses,2017-02,Wales,2,514,2,0.389
+Calves,Offal,Liver Abscesses,2017-03,Wales,1,932,3,0.107
+Calves,Offal,Lungworm,2016-09,England,2,9337,31,0.021
+Calves,Offal,Lungworm,2016-10,England,26,8104,32,0.321
+Calves,Offal,Lungworm,2016-12,England,2,6211,28,0.032
+Calves,Offal,Lungworm,2017-03,Wales,1,932,3,0.107
+Calves,Offal,Other,2016-07,England,131,3669,32,3.57
+Calves,Offal,Other,2016-08,England,200,4907,29,4.076
+Calves,Offal,Other,2016-09,England,324,9337,31,3.47
+Calves,Offal,Other,2016-10,England,237,8104,32,2.924
+Calves,Offal,Other,2016-11,England,151,7249,30,2.083
+Calves,Offal,Other,2016-12,England,201,6211,28,3.236
+Calves,Offal,Other,2017-01,England,128,5889,29,2.174
+Calves,Offal,Other,2017-02,England,106,8248,29,1.285
+Calves,Offal,Other,2017-03,England,122,12236,29,0.997
+Calves,Offal,Other,2016-07,Wales,21,799,4,2.628
+Calves,Offal,Other,2016-08,Wales,14,1701,3,0.823
+Calves,Offal,Other,2016-09,Wales,9,1356,5,0.664
+Calves,Offal,Other,2017-03,Wales,2,932,3,0.215
+Calves,Offal,Pleurisy,2016-07,England,11,3669,32,0.3
+Calves,Offal,Pleurisy,2016-08,England,7,4907,29,0.143
+Calves,Offal,Pleurisy,2016-09,England,29,9337,31,0.311
+Calves,Offal,Pleurisy,2016-10,England,34,8104,32,0.42
+Calves,Offal,Pleurisy,2016-11,England,13,7249,30,0.179
+Calves,Offal,Pleurisy,2016-12,England,10,6211,28,0.161
+Calves,Offal,Pleurisy,2017-01,England,21,5889,29,0.357
+Calves,Offal,Pleurisy,2017-02,England,22,8248,29,0.267
+Calves,Offal,Pleurisy,2017-03,England,18,12236,29,0.147
+Calves,Offal,Pleurisy,2016-07,Wales,1,799,4,0.125
+Calves,Offal,Pleurisy,2016-08,Wales,5,1701,3,0.294
+Calves,Offal,Pleurisy,2017-02,Wales,4,514,2,0.778
+Calves,Offal,Pneumonia,2016-07,England,161,3669,32,4.388
+Calves,Offal,Pneumonia,2016-08,England,274,4907,29,5.584
+Calves,Offal,Pneumonia,2016-09,England,400,9337,31,4.284
+Calves,Offal,Pneumonia,2016-10,England,439,8104,32,5.417
+Calves,Offal,Pneumonia,2016-11,England,514,7249,30,7.091
+Calves,Offal,Pneumonia,2016-12,England,518,6211,28,8.34
+Calves,Offal,Pneumonia,2017-01,England,540,5889,29,9.17
+Calves,Offal,Pneumonia,2017-02,England,540,8248,29,6.547
+Calves,Offal,Pneumonia,2017-03,England,677,12236,29,5.533
+Calves,Offal,Pneumonia,2016-07,Wales,29,799,4,3.63
+Calves,Offal,Pneumonia,2016-08,Wales,55,1701,3,3.233
+Calves,Offal,Pneumonia,2016-09,Wales,34,1356,5,2.507
+Calves,Offal,Pneumonia,2016-10,Wales,15,709,4,2.116
+Calves,Offal,Pneumonia,2016-11,Wales,25,677,3,3.693
+Calves,Offal,Pneumonia,2016-12,Wales,12,380,2,3.158
+Calves,Offal,Pneumonia,2017-01,Wales,19,626,2,3.035
+Calves,Offal,Pneumonia,2017-02,Wales,17,514,2,3.307
+Calves,Offal,Pneumonia,2017-03,Wales,14,932,3,1.502
+Calves,Offal,Traumatic Pericarditis,2016-07,England,2,3669,32,0.055
+Calves,Offal,Traumatic Pericarditis,2016-09,England,1,9337,31,0.011
+Calves,Offal,Traumatic Pericarditis,2016-12,England,1,6211,28,0.016
+Calves,Offal,Traumatic Pericarditis,2017-02,England,2,8248,29,0.024
+Calves,Offal,Traumatic Pericarditis,2017-03,England,1,12236,29,0.008
+Calves,Total Rejections,Abnormal Odour - Uraemia,2016-07,England,1,3669,32,0.027
+Calves,Total Rejections,Abnormal Odour - Uraemia,2016-08,England,1,4907,29,0.02
+Calves,Total Rejections,Abnormal Odour - Uraemia,2017-01,England,1,5889,29,0.017
+Calves,Total Rejections,Abnormal Odour - Uraemia,2017-02,England,1,8248,29,0.012
+Calves,Total Rejections,Abnormal Odour - Uraemia,2016-07,Wales,1,799,4,0.125
+Calves,Total Rejections,Abnormal Odour - Uraemia,2016-08,Wales,1,1701,3,0.059
+Calves,Total Rejections,Abnormal Odour - Uraemia,2017-02,Wales,5,514,2,0.973
+Calves,Total Rejections,Abnormal Odour - Uraemia,2017-03,Wales,1,932,3,0.107
+Calves,Total Rejections,Contamination,2016-07,England,1,3669,32,0.027
+Calves,Total Rejections,Contamination,2016-08,Wales,2,1701,3,0.118
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-07,England,1,3669,32,0.027
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-08,England,1,4907,29,0.02
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-09,England,4,9337,31,0.043
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-10,England,15,8104,32,0.185
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-11,England,2,7249,30,0.028
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-12,England,8,6211,28,0.129
+Calves,Total Rejections,Generalised Oedema/Emaciation,2017-01,England,10,5889,29,0.17
+Calves,Total Rejections,Generalised Oedema/Emaciation,2017-02,England,21,8248,29,0.255
+Calves,Total Rejections,Generalised Oedema/Emaciation,2017-03,England,18,12236,29,0.147
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-08,Wales,1,1701,3,0.059
+Calves,Total Rejections,Generalised Oedema/Emaciation,2016-09,Wales,4,1356,5,0.295
+Calves,Total Rejections,Generalised Oedema/Emaciation,2017-03,Wales,1,932,3,0.107
+Calves,Total Rejections,Generalised TB (Suspect),2016-08,England,1,4907,29,0.02
+Calves,Total Rejections,Generalised TB (Suspect),2016-09,England,1,9337,31,0.011
+Calves,Total Rejections,Immaturity/ Less than 7 days old,2016-08,England,2,4907,29,0.041
+Calves,Total Rejections,Immaturity/ Less than 7 days old,2016-09,England,2,9337,31,0.021
+Calves,Total Rejections,Immaturity/ Less than 7 days old,2017-02,England,1,8248,29,0.012
+Calves,Total Rejections,Jaundice,2016-08,England,3,4907,29,0.061
+Calves,Total Rejections,Jaundice,2016-09,England,2,9337,31,0.021
+Calves,Total Rejections,Jaundice,2016-12,England,1,6211,28,0.016
+Calves,Total Rejections,Jaundice,2017-01,England,1,5889,29,0.017
+Calves,Total Rejections,Jaundice,2017-03,England,2,12236,29,0.016
+Calves,Total Rejections,Jaundice,2016-12,Wales,1,380,2,0.263
+Calves,Total Rejections,Jaundice,2017-03,Wales,1,932,3,0.107
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-07,England,9,3669,32,0.245
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-08,England,11,4907,29,0.224
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-09,England,17,9337,31,0.182
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-10,England,12,8104,32,0.148
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-11,England,19,7249,30,0.262
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-12,England,13,6211,28,0.209
+Calves,Total Rejections,Navel ill/joint ill for young animals,2017-01,England,16,5889,29,0.272
+Calves,Total Rejections,Navel ill/joint ill for young animals,2017-02,England,8,8248,29,0.097
+Calves,Total Rejections,Navel ill/joint ill for young animals,2017-03,England,16,12236,29,0.131
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-07,Wales,2,799,4,0.25
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-08,Wales,8,1701,3,0.47
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-09,Wales,7,1356,5,0.516
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-10,Wales,9,709,4,1.269
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-11,Wales,5,677,3,0.739
+Calves,Total Rejections,Navel ill/joint ill for young animals,2016-12,Wales,7,380,2,1.842
+Calves,Total Rejections,Navel ill/joint ill for young animals,2017-01,Wales,9,626,2,1.438
+Calves,Total Rejections,Navel ill/joint ill for young animals,2017-02,Wales,5,514,2,0.973
+Calves,Total Rejections,Navel ill/joint ill for young animals,2017-03,Wales,16,932,3,1.717
+Calves,Total Rejections,Other,2016-07,England,2,3669,32,0.055
+Calves,Total Rejections,Other,2016-08,England,3,4907,29,0.061
+Calves,Total Rejections,Other,2016-09,England,4,9337,31,0.043
+Calves,Total Rejections,Other,2016-10,England,8,8104,32,0.099
+Calves,Total Rejections,Other,2016-11,England,19,7249,30,0.262
+Calves,Total Rejections,Other,2016-12,England,8,6211,28,0.129
+Calves,Total Rejections,Other,2017-01,England,16,5889,29,0.272
+Calves,Total Rejections,Other,2017-02,England,7,8248,29,0.085
+Calves,Total Rejections,Other,2017-03,England,4,12236,29,0.033
+Calves,Total Rejections,Other,2016-09,Wales,2,1356,5,0.147
+Calves,Total Rejections,Other,2016-12,Wales,1,380,2,0.263
+Calves,Total Rejections,Other,2017-03,Wales,4,932,3,0.429
+Calves,Total Rejections,Processing Fault,2016-12,England,8,6211,28,0.129
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-07,England,1,3669,32,0.027
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-08,England,4,4907,29,0.082
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-09,England,2,9337,31,0.021
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-10,England,9,8104,32,0.111
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-11,England,2,7249,30,0.028
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-12,England,1,6211,28,0.016
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2017-01,England,5,5889,29,0.085
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2017-02,England,3,8248,29,0.036
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2017-03,England,5,12236,29,0.041
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-07,Wales,5,799,4,0.626
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-08,Wales,3,1701,3,0.176
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-09,Wales,1,1356,5,0.074
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-10,Wales,2,709,4,0.282
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-11,Wales,4,677,3,0.591
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2016-12,Wales,1,380,2,0.263
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2017-01,Wales,7,626,2,1.118
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2017-02,Wales,1,514,2,0.195
+Calves,Total Rejections,Pyaemia/ Multiple abscesses,2017-03,Wales,4,932,3,0.429
+Calves,Total Rejections,Septicaemia / Fever,2016-07,England,2,3669,32,0.055
+Calves,Total Rejections,Septicaemia / Fever,2016-08,England,8,4907,29,0.163
+Calves,Total Rejections,Septicaemia / Fever,2016-09,England,11,9337,31,0.118
+Calves,Total Rejections,Septicaemia / Fever,2016-10,England,15,8104,32,0.185
+Calves,Total Rejections,Septicaemia / Fever,2016-11,England,10,7249,30,0.138
+Calves,Total Rejections,Septicaemia / Fever,2016-12,England,9,6211,28,0.145
+Calves,Total Rejections,Septicaemia / Fever,2017-01,England,12,5889,29,0.204
+Calves,Total Rejections,Septicaemia / Fever,2017-02,England,16,8248,29,0.194
+Calves,Total Rejections,Septicaemia / Fever,2017-03,England,10,12236,29,0.082
+Calves,Total Rejections,Septicaemia / Fever,2016-07,Wales,1,799,4,0.125
+Calves,Total Rejections,Septicaemia / Fever,2016-08,Wales,5,1701,3,0.294
+Calves,Total Rejections,Septicaemia / Fever,2016-09,Wales,1,1356,5,0.074
+Calves,Total Rejections,Septicaemia / Fever,2016-10,Wales,4,709,4,0.564
+Calves,Total Rejections,Septicaemia / Fever,2016-11,Wales,2,677,3,0.295
+Calves,Total Rejections,Septicaemia / Fever,2016-12,Wales,5,380,2,1.316
+Calves,Total Rejections,Septicaemia / Fever,2017-02,Wales,2,514,2,0.389
+Calves,Total Rejections,Septicaemia / Fever,2017-03,Wales,5,932,3,0.536
+Cattle,AM,Abnormal Respiratory Signs,2016-07,England,374,110032,148,0.34
+Cattle,AM,Abnormal Respiratory Signs,2016-08,England,389,117810,149,0.33
+Cattle,AM,Abnormal Respiratory Signs,2016-09,England,417,133762,149,0.312
+Cattle,AM,Abnormal Respiratory Signs,2016-10,England,403,135283,149,0.298
+Cattle,AM,Abnormal Respiratory Signs,2016-11,England,505,148811,150,0.339
+Cattle,AM,Abnormal Respiratory Signs,2016-12,England,475,116776,143,0.407
+Cattle,AM,Abnormal Respiratory Signs,2017-01,England,483,124439,148,0.388
+Cattle,AM,Abnormal Respiratory Signs,2017-02,England,456,116195,149,0.392
+Cattle,AM,Abnormal Respiratory Signs,2017-03,England,401,136221,148,0.294
+Cattle,AM,Abnormal Respiratory Signs,2016-07,Wales,8,5093,15,0.157
+Cattle,AM,Abnormal Respiratory Signs,2016-08,Wales,50,10297,17,0.486
+Cattle,AM,Abnormal Respiratory Signs,2016-09,Wales,52,11851,16,0.439
+Cattle,AM,Abnormal Respiratory Signs,2016-10,Wales,43,10813,17,0.398
+Cattle,AM,Abnormal Respiratory Signs,2016-11,Wales,66,12056,16,0.547
+Cattle,AM,Abnormal Respiratory Signs,2016-12,Wales,56,10543,17,0.531
+Cattle,AM,Abnormal Respiratory Signs,2017-01,Wales,45,10633,16,0.423
+Cattle,AM,Abnormal Respiratory Signs,2017-02,Wales,49,9518,16,0.515
+Cattle,AM,Abnormal Respiratory Signs,2017-03,Wales,50,11767,17,0.425
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-07,England,55,110032,148,0.05
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-08,England,49,117810,149,0.042
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-09,England,69,133762,149,0.052
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-10,England,49,135283,149,0.036
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-11,England,67,148811,150,0.045
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-12,England,45,116776,143,0.039
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2017-01,England,68,124439,148,0.055
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2017-02,England,64,116195,149,0.055
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2017-03,England,57,136221,148,0.042
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-08,Wales,6,10297,17,0.058
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-09,Wales,5,11851,16,0.042
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-10,Wales,1,10813,17,0.009
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-11,Wales,1,12056,16,0.008
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2016-12,Wales,7,10543,17,0.066
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2017-02,Wales,1,9518,16,0.011
+Cattle,AM,Abnormal Swelling (e.g.Bloat) ,2017-03,Wales,1,11767,17,0.008
+Cattle,AM,Dead in Lairage (DIL),2016-07,England,12,110032,148,0.011
+Cattle,AM,Dead in Lairage (DIL),2016-08,England,7,117810,149,0.006
+Cattle,AM,Dead in Lairage (DIL),2016-09,England,13,133762,149,0.01
+Cattle,AM,Dead in Lairage (DIL),2016-10,England,11,135283,149,0.008
+Cattle,AM,Dead in Lairage (DIL),2016-11,England,8,148811,150,0.005
+Cattle,AM,Dead in Lairage (DIL),2016-12,England,13,116776,143,0.011
+Cattle,AM,Dead in Lairage (DIL),2017-01,England,6,124439,148,0.005
+Cattle,AM,Dead in Lairage (DIL),2017-02,England,5,116195,149,0.004
+Cattle,AM,Dead in Lairage (DIL),2017-03,England,5,136221,148,0.004
+Cattle,AM,Dead in Lairage (DIL),2016-08,Wales,2,10297,17,0.019
+Cattle,AM,Dead in Lairage (DIL),2016-09,Wales,2,11851,16,0.017
+Cattle,AM,Dead in Lairage (DIL),2016-11,Wales,6,12056,16,0.05
+Cattle,AM,Dead in Lairage (DIL),2016-12,Wales,2,10543,17,0.019
+Cattle,AM,Dead in Lairage (DIL),2017-02,Wales,2,9518,16,0.021
+Cattle,AM,Dead on Arrival (DOA),2016-08,England,1,117810,149,0.001
+Cattle,AM,Dead on Arrival (DOA),2016-09,England,1,133762,149,0.001
+Cattle,AM,Dead on Arrival (DOA),2016-10,England,6,135283,149,0.004
+Cattle,AM,Dead on Arrival (DOA),2016-11,England,11,148811,150,0.007
+Cattle,AM,Dead on Arrival (DOA),2016-12,England,4,116776,143,0.003
+Cattle,AM,Dead on Arrival (DOA),2017-01,England,2,124439,148,0.002
+Cattle,AM,Dead on Arrival (DOA),2017-02,England,2,116195,149,0.002
+Cattle,AM,Dead on Arrival (DOA),2017-03,England,7,136221,148,0.005
+Cattle,AM,Dermatitis,2016-07,England,119,110032,148,0.108
+Cattle,AM,Dermatitis,2016-08,England,75,117810,149,0.064
+Cattle,AM,Dermatitis,2016-09,England,87,133762,149,0.065
+Cattle,AM,Dermatitis,2016-10,England,86,135283,149,0.064
+Cattle,AM,Dermatitis,2016-11,England,105,148811,150,0.071
+Cattle,AM,Dermatitis,2016-12,England,131,116776,143,0.112
+Cattle,AM,Dermatitis,2017-01,England,160,124439,148,0.129
+Cattle,AM,Dermatitis,2017-02,England,170,116195,149,0.146
+Cattle,AM,Dermatitis,2017-03,England,138,136221,148,0.101
+Cattle,AM,Dermatitis,2016-07,Wales,7,5093,15,0.137
+Cattle,AM,Dermatitis,2016-08,Wales,7,10297,17,0.068
+Cattle,AM,Dermatitis,2016-09,Wales,8,11851,16,0.068
+Cattle,AM,Dermatitis,2016-10,Wales,5,10813,17,0.046
+Cattle,AM,Dermatitis,2016-11,Wales,4,12056,16,0.033
+Cattle,AM,Dermatitis,2016-12,Wales,9,10543,17,0.085
+Cattle,AM,Dermatitis,2017-01,Wales,38,10633,16,0.357
+Cattle,AM,Dermatitis,2017-02,Wales,37,9518,16,0.389
+Cattle,AM,Dermatitis,2017-03,Wales,22,11767,17,0.187
+Cattle,AM,Diarrhoea,2016-07,England,297,110032,148,0.27
+Cattle,AM,Diarrhoea,2016-08,England,231,117810,149,0.196
+Cattle,AM,Diarrhoea,2016-09,England,189,133762,149,0.141
+Cattle,AM,Diarrhoea,2016-10,England,192,135283,149,0.142
+Cattle,AM,Diarrhoea,2016-11,England,333,148811,150,0.224
+Cattle,AM,Diarrhoea,2016-12,England,204,116776,143,0.175
+Cattle,AM,Diarrhoea,2017-01,England,223,124439,148,0.179
+Cattle,AM,Diarrhoea,2017-02,England,189,116195,149,0.163
+Cattle,AM,Diarrhoea,2017-03,England,177,136221,148,0.13
+Cattle,AM,Diarrhoea,2016-07,Wales,4,5093,15,0.079
+Cattle,AM,Diarrhoea,2016-08,Wales,8,10297,17,0.078
+Cattle,AM,Diarrhoea,2016-09,Wales,16,11851,16,0.135
+Cattle,AM,Diarrhoea,2016-10,Wales,12,10813,17,0.111
+Cattle,AM,Diarrhoea,2016-11,Wales,6,12056,16,0.05
+Cattle,AM,Diarrhoea,2016-12,Wales,4,10543,17,0.038
+Cattle,AM,Diarrhoea,2017-01,Wales,1,10633,16,0.009
+Cattle,AM,Diarrhoea,2017-02,Wales,7,9518,16,0.074
+Cattle,AM,Diarrhoea,2017-03,Wales,1,11767,17,0.008
+Cattle,AM,Ectoparasites ? Generalised,2016-09,England,3,133762,149,0.002
+Cattle,AM,Ectoparasites ? Generalised,2016-10,England,1,135283,149,0.001
+Cattle,AM,Ectoparasites ? Generalised,2016-11,England,1,148811,150,0.001
+Cattle,AM,Ectoparasites ? Generalised,2017-01,England,3,124439,148,0.002
+Cattle,AM,Ectoparasites ? Localised,2016-07,England,26,110032,148,0.024
+Cattle,AM,Ectoparasites ? Localised,2016-08,England,18,117810,149,0.015
+Cattle,AM,Ectoparasites ? Localised,2016-09,England,19,133762,149,0.014
+Cattle,AM,Ectoparasites ? Localised,2016-10,England,14,135283,149,0.01
+Cattle,AM,Ectoparasites ? Localised,2016-11,England,22,148811,150,0.015
+Cattle,AM,Ectoparasites ? Localised,2016-12,England,56,116776,143,0.048
+Cattle,AM,Ectoparasites ? Localised,2017-01,England,78,124439,148,0.063
+Cattle,AM,Ectoparasites ? Localised,2017-02,England,28,116195,149,0.024
+Cattle,AM,Ectoparasites ? Localised,2017-03,England,21,136221,148,0.015
+Cattle,AM,Ectoparasites ? Localised,2016-07,Wales,1,5093,15,0.02
+Cattle,AM,Ectoparasites ? Localised,2016-08,Wales,2,10297,17,0.019
+Cattle,AM,Ectoparasites ? Localised,2016-09,Wales,1,11851,16,0.008
+Cattle,AM,Emergency Slaughter on Farm ,2016-07,England,453,110032,148,0.412
+Cattle,AM,Emergency Slaughter on Farm ,2016-08,England,456,117810,149,0.387
+Cattle,AM,Emergency Slaughter on Farm ,2016-09,England,484,133762,149,0.362
+Cattle,AM,Emergency Slaughter on Farm ,2016-10,England,514,135283,149,0.38
+Cattle,AM,Emergency Slaughter on Farm ,2016-11,England,489,148811,150,0.329
+Cattle,AM,Emergency Slaughter on Farm ,2016-12,England,470,116776,143,0.402
+Cattle,AM,Emergency Slaughter on Farm ,2017-01,England,491,124439,148,0.395
+Cattle,AM,Emergency Slaughter on Farm ,2017-02,England,403,116195,149,0.347
+Cattle,AM,Emergency Slaughter on Farm ,2017-03,England,385,136221,148,0.283
+Cattle,AM,Eye Condition,2016-07,England,150,110032,148,0.136
+Cattle,AM,Eye Condition,2016-08,England,156,117810,149,0.132
+Cattle,AM,Eye Condition,2016-09,England,183,133762,149,0.137
+Cattle,AM,Eye Condition,2016-10,England,138,135283,149,0.102
+Cattle,AM,Eye Condition,2016-11,England,140,148811,150,0.094
+Cattle,AM,Eye Condition,2016-12,England,130,116776,143,0.111
+Cattle,AM,Eye Condition,2017-01,England,154,124439,148,0.124
+Cattle,AM,Eye Condition,2017-02,England,141,116195,149,0.121
+Cattle,AM,Eye Condition,2017-03,England,180,136221,148,0.132
+Cattle,AM,Eye Condition,2016-07,Wales,2,5093,15,0.039
+Cattle,AM,Eye Condition,2016-08,Wales,15,10297,17,0.146
+Cattle,AM,Eye Condition,2016-09,Wales,21,11851,16,0.177
+Cattle,AM,Eye Condition,2016-10,Wales,12,10813,17,0.111
+Cattle,AM,Eye Condition,2016-11,Wales,11,12056,16,0.091
+Cattle,AM,Eye Condition,2016-12,Wales,9,10543,17,0.085
+Cattle,AM,Eye Condition,2017-01,Wales,6,10633,16,0.056
+Cattle,AM,Eye Condition,2017-02,Wales,8,9518,16,0.084
+Cattle,AM,Eye Condition,2017-03,Wales,16,11767,17,0.136
+Cattle,AM,Lameness ? Foot Lesion(s),2016-07,England,740,110032,148,0.673
+Cattle,AM,Lameness ? Foot Lesion(s),2016-08,England,660,117810,149,0.56
+Cattle,AM,Lameness ? Foot Lesion(s),2016-09,England,593,133762,149,0.443
+Cattle,AM,Lameness ? Foot Lesion(s),2016-10,England,621,135283,149,0.459
+Cattle,AM,Lameness ? Foot Lesion(s),2016-11,England,767,148811,150,0.515
+Cattle,AM,Lameness ? Foot Lesion(s),2016-12,England,602,116776,143,0.516
+Cattle,AM,Lameness ? Foot Lesion(s),2017-01,England,607,124439,148,0.488
+Cattle,AM,Lameness ? Foot Lesion(s),2017-02,England,473,116195,149,0.407
+Cattle,AM,Lameness ? Foot Lesion(s),2017-03,England,611,136221,148,0.449
+Cattle,AM,Lameness ? Foot Lesion(s),2016-07,Wales,11,5093,15,0.216
+Cattle,AM,Lameness ? Foot Lesion(s),2016-08,Wales,21,10297,17,0.204
+Cattle,AM,Lameness ? Foot Lesion(s),2016-09,Wales,38,11851,16,0.321
+Cattle,AM,Lameness ? Foot Lesion(s),2016-10,Wales,18,10813,17,0.166
+Cattle,AM,Lameness ? Foot Lesion(s),2016-11,Wales,14,12056,16,0.116
+Cattle,AM,Lameness ? Foot Lesion(s),2016-12,Wales,19,10543,17,0.18
+Cattle,AM,Lameness ? Foot Lesion(s),2017-01,Wales,16,10633,16,0.15
+Cattle,AM,Lameness ? Foot Lesion(s),2017-02,Wales,13,9518,16,0.137
+Cattle,AM,Lameness ? Foot Lesion(s),2017-03,Wales,16,11767,17,0.136
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-07,England,326,110032,148,0.296
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-08,England,233,117810,149,0.198
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-09,England,284,133762,149,0.212
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-10,England,282,135283,149,0.208
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-11,England,366,148811,150,0.246
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-12,England,277,116776,143,0.237
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2017-01,England,286,124439,148,0.23
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2017-02,England,236,116195,149,0.203
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2017-03,England,370,136221,148,0.272
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-07,Wales,8,5093,15,0.157
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-08,Wales,14,10297,17,0.136
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-09,Wales,16,11851,16,0.135
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-10,Wales,22,10813,17,0.203
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-11,Wales,18,12056,16,0.149
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2016-12,Wales,13,10543,17,0.123
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2017-01,Wales,7,10633,16,0.066
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2017-02,Wales,8,9518,16,0.084
+Cattle,AM,Lameness ? Joint/Leg Lesion(s),2017-03,Wales,9,11767,17,0.076
+Cattle,AM,Lameness ? Not Defined,2016-07,England,550,110032,148,0.5
+Cattle,AM,Lameness ? Not Defined,2016-08,England,558,117810,149,0.474
+Cattle,AM,Lameness ? Not Defined,2016-09,England,613,133762,149,0.458
+Cattle,AM,Lameness ? Not Defined,2016-10,England,617,135283,149,0.456
+Cattle,AM,Lameness ? Not Defined,2016-11,England,628,148811,150,0.422
+Cattle,AM,Lameness ? Not Defined,2016-12,England,507,116776,143,0.434
+Cattle,AM,Lameness ? Not Defined,2017-01,England,566,124439,148,0.455
+Cattle,AM,Lameness ? Not Defined,2017-02,England,493,116195,149,0.424
+Cattle,AM,Lameness ? Not Defined,2017-03,England,459,136221,148,0.337
+Cattle,AM,Lameness ? Not Defined,2016-07,Wales,30,5093,15,0.589
+Cattle,AM,Lameness ? Not Defined,2016-08,Wales,40,10297,17,0.388
+Cattle,AM,Lameness ? Not Defined,2016-09,Wales,51,11851,16,0.43
+Cattle,AM,Lameness ? Not Defined,2016-10,Wales,63,10813,17,0.583
+Cattle,AM,Lameness ? Not Defined,2016-11,Wales,59,12056,16,0.489
+Cattle,AM,Lameness ? Not Defined,2016-12,Wales,65,10543,17,0.617
+Cattle,AM,Lameness ? Not Defined,2017-01,Wales,50,10633,16,0.47
+Cattle,AM,Lameness ? Not Defined,2017-02,Wales,84,9518,16,0.883
+Cattle,AM,Lameness ? Not Defined,2017-03,Wales,65,11767,17,0.552
+Cattle,AM,Localised Swelling/Lumps,2016-07,England,261,110032,148,0.237
+Cattle,AM,Localised Swelling/Lumps,2016-08,England,251,117810,149,0.213
+Cattle,AM,Localised Swelling/Lumps,2016-09,England,273,133762,149,0.204
+Cattle,AM,Localised Swelling/Lumps,2016-10,England,218,135283,149,0.161
+Cattle,AM,Localised Swelling/Lumps,2016-11,England,241,148811,150,0.162
+Cattle,AM,Localised Swelling/Lumps,2016-12,England,224,116776,143,0.192
+Cattle,AM,Localised Swelling/Lumps,2017-01,England,201,124439,148,0.162
+Cattle,AM,Localised Swelling/Lumps,2017-02,England,204,116195,149,0.176
+Cattle,AM,Localised Swelling/Lumps,2017-03,England,250,136221,148,0.184
+Cattle,AM,Localised Swelling/Lumps,2016-07,Wales,1,5093,15,0.02
+Cattle,AM,Localised Swelling/Lumps,2016-08,Wales,6,10297,17,0.058
+Cattle,AM,Localised Swelling/Lumps,2016-09,Wales,4,11851,16,0.034
+Cattle,AM,Localised Swelling/Lumps,2016-10,Wales,9,10813,17,0.083
+Cattle,AM,Localised Swelling/Lumps,2016-11,Wales,14,12056,16,0.116
+Cattle,AM,Localised Swelling/Lumps,2016-12,Wales,12,10543,17,0.114
+Cattle,AM,Localised Swelling/Lumps,2017-01,Wales,4,10633,16,0.038
+Cattle,AM,Localised Swelling/Lumps,2017-02,Wales,1,9518,16,0.011
+Cattle,AM,Localised Swelling/Lumps,2017-03,Wales,4,11767,17,0.034
+Cattle,AM,Mastitis,2016-07,England,673,110032,148,0.612
+Cattle,AM,Mastitis,2016-08,England,642,117810,149,0.545
+Cattle,AM,Mastitis,2016-09,England,484,133762,149,0.362
+Cattle,AM,Mastitis,2016-10,England,407,135283,149,0.301
+Cattle,AM,Mastitis,2016-11,England,561,148811,150,0.377
+Cattle,AM,Mastitis,2016-12,England,459,116776,143,0.393
+Cattle,AM,Mastitis,2017-01,England,388,124439,148,0.312
+Cattle,AM,Mastitis,2017-02,England,501,116195,149,0.431
+Cattle,AM,Mastitis,2017-03,England,464,136221,148,0.341
+Cattle,AM,Mastitis,2016-08,Wales,5,10297,17,0.049
+Cattle,AM,Mastitis,2016-09,Wales,3,11851,16,0.025
+Cattle,AM,Mastitis,2016-10,Wales,1,10813,17,0.009
+Cattle,AM,Mastitis,2016-11,Wales,6,12056,16,0.05
+Cattle,AM,Mastitis,2016-12,Wales,4,10543,17,0.038
+Cattle,AM,Mastitis,2017-01,Wales,1,10633,16,0.009
+Cattle,AM,Mastitis,2017-03,Wales,2,11767,17,0.017
+Cattle,AM,Moribund/ Recumbent,2016-07,England,16,110032,148,0.015
+Cattle,AM,Moribund/ Recumbent,2016-08,England,20,117810,149,0.017
+Cattle,AM,Moribund/ Recumbent,2016-09,England,30,133762,149,0.022
+Cattle,AM,Moribund/ Recumbent,2016-10,England,25,135283,149,0.018
+Cattle,AM,Moribund/ Recumbent,2016-11,England,11,148811,150,0.007
+Cattle,AM,Moribund/ Recumbent,2016-12,England,8,116776,143,0.007
+Cattle,AM,Moribund/ Recumbent,2017-01,England,8,124439,148,0.006
+Cattle,AM,Moribund/ Recumbent,2017-02,England,11,116195,149,0.009
+Cattle,AM,Moribund/ Recumbent,2017-03,England,6,136221,148,0.004
+Cattle,AM,Mouth lesions,2016-07,England,4,110032,148,0.004
+Cattle,AM,Mouth lesions,2016-08,England,10,117810,149,0.008
+Cattle,AM,Mouth lesions,2016-09,England,7,133762,149,0.005
+Cattle,AM,Mouth lesions,2016-10,England,11,135283,149,0.008
+Cattle,AM,Mouth lesions,2016-11,England,6,148811,150,0.004
+Cattle,AM,Mouth lesions,2016-12,England,4,116776,143,0.003
+Cattle,AM,Mouth lesions,2017-01,England,10,124439,148,0.008
+Cattle,AM,Mouth lesions,2017-02,England,6,116195,149,0.005
+Cattle,AM,Mouth lesions,2017-03,England,7,136221,148,0.005
+Cattle,AM,Neurological/Nervous Signs,2016-07,England,2,110032,148,0.002
+Cattle,AM,Neurological/Nervous Signs,2016-08,England,1,117810,149,0.001
+Cattle,AM,Neurological/Nervous Signs,2016-09,England,5,133762,149,0.004
+Cattle,AM,Neurological/Nervous Signs,2016-10,England,2,135283,149,0.001
+Cattle,AM,Neurological/Nervous Signs,2016-11,England,3,148811,150,0.002
+Cattle,AM,Neurological/Nervous Signs,2016-12,England,2,116776,143,0.002
+Cattle,AM,Neurological/Nervous Signs,2017-01,England,1,124439,148,0.001
+Cattle,AM,Neurological/Nervous Signs,2017-02,England,2,116195,149,0.002
+Cattle,AM,Neurological/Nervous Signs,2017-03,England,2,136221,148,0.001
+Cattle,AM,Other,2016-07,England,147,110032,148,0.134
+Cattle,AM,Other,2016-08,England,88,117810,149,0.075
+Cattle,AM,Other,2016-09,England,97,133762,149,0.073
+Cattle,AM,Other,2016-10,England,75,135283,149,0.055
+Cattle,AM,Other,2016-11,England,97,148811,150,0.065
+Cattle,AM,Other,2016-12,England,97,116776,143,0.083
+Cattle,AM,Other,2017-01,England,66,124439,148,0.053
+Cattle,AM,Other,2017-02,England,70,116195,149,0.06
+Cattle,AM,Other,2017-03,England,107,136221,148,0.079
+Cattle,AM,Other,2016-07,Wales,3,5093,15,0.059
+Cattle,AM,Other,2016-08,Wales,3,10297,17,0.029
+Cattle,AM,Other,2016-09,Wales,2,11851,16,0.017
+Cattle,AM,Other,2016-10,Wales,3,10813,17,0.028
+Cattle,AM,Other,2016-11,Wales,2,12056,16,0.017
+Cattle,AM,Other,2016-12,Wales,4,10543,17,0.038
+Cattle,AM,Other,2017-01,Wales,10,10633,16,0.094
+Cattle,AM,Other,2017-02,Wales,4,9518,16,0.042
+Cattle,AM,Other,2017-03,Wales,6,11767,17,0.051
+Cattle,AM,Papilloma,2016-07,England,167,110032,148,0.152
+Cattle,AM,Papilloma,2016-08,England,176,117810,149,0.149
+Cattle,AM,Papilloma,2016-09,England,124,133762,149,0.093
+Cattle,AM,Papilloma,2016-10,England,104,135283,149,0.077
+Cattle,AM,Papilloma,2016-11,England,93,148811,150,0.062
+Cattle,AM,Papilloma,2016-12,England,77,116776,143,0.066
+Cattle,AM,Papilloma,2017-01,England,86,124439,148,0.069
+Cattle,AM,Papilloma,2017-02,England,92,116195,149,0.079
+Cattle,AM,Papilloma,2017-03,England,109,136221,148,0.08
+Cattle,AM,Papilloma,2016-07,Wales,4,5093,15,0.079
+Cattle,AM,Papilloma,2016-08,Wales,7,10297,17,0.068
+Cattle,AM,Papilloma,2016-09,Wales,12,11851,16,0.101
+Cattle,AM,Papilloma,2016-10,Wales,2,10813,17,0.018
+Cattle,AM,Papilloma,2016-11,Wales,1,12056,16,0.008
+Cattle,AM,Papilloma,2016-12,Wales,1,10543,17,0.009
+Cattle,AM,Papilloma,2017-01,Wales,1,10633,16,0.009
+Cattle,AM,Papilloma,2017-02,Wales,1,9518,16,0.011
+Cattle,AM,Papilloma,2017-03,Wales,2,11767,17,0.017
+Cattle,AM,Peri-parturition,2016-07,England,1,110032,148,0.001
+Cattle,AM,Peri-parturition,2016-08,England,6,117810,149,0.005
+Cattle,AM,Peri-parturition,2016-09,England,2,133762,149,0.001
+Cattle,AM,Peri-parturition,2016-12,England,1,116776,143,0.001
+Cattle,AM,Peri-parturition,2017-01,England,1,124439,148,0.001
+Cattle,AM,Peri-parturition,2017-02,England,1,116195,149,0.001
+Cattle,AM,Peri-parturition,2017-03,England,4,136221,148,0.003
+Cattle,AM,Prolapsed Uterus,2016-07,England,4,110032,148,0.004
+Cattle,AM,Prolapsed Uterus,2016-08,England,5,117810,149,0.004
+Cattle,AM,Prolapsed Uterus,2016-09,England,4,133762,149,0.003
+Cattle,AM,Prolapsed Uterus,2016-10,England,4,135283,149,0.003
+Cattle,AM,Prolapsed Uterus,2016-11,England,9,148811,150,0.006
+Cattle,AM,Prolapsed Uterus,2016-12,England,5,116776,143,0.004
+Cattle,AM,Prolapsed Uterus,2017-01,England,2,124439,148,0.002
+Cattle,AM,Prolapsed Uterus,2017-02,England,3,116195,149,0.003
+Cattle,AM,Prolapsed Uterus,2017-03,England,7,136221,148,0.005
+Cattle,AM,Prolapsed Uterus,2017-01,Wales,2,10633,16,0.019
+Cattle,AM,Ringworm,2016-07,England,185,110032,148,0.168
+Cattle,AM,Ringworm,2016-08,England,153,117810,149,0.13
+Cattle,AM,Ringworm,2016-09,England,65,133762,149,0.049
+Cattle,AM,Ringworm,2016-10,England,63,135283,149,0.047
+Cattle,AM,Ringworm,2016-11,England,80,148811,150,0.054
+Cattle,AM,Ringworm,2016-12,England,73,116776,143,0.063
+Cattle,AM,Ringworm,2017-01,England,128,124439,148,0.103
+Cattle,AM,Ringworm,2017-02,England,86,116195,149,0.074
+Cattle,AM,Ringworm,2017-03,England,106,136221,148,0.078
+Cattle,AM,Ringworm,2016-07,Wales,16,5093,15,0.314
+Cattle,AM,Ringworm,2016-08,Wales,13,10297,17,0.126
+Cattle,AM,Ringworm,2016-09,Wales,20,11851,16,0.169
+Cattle,AM,Ringworm,2016-10,Wales,9,10813,17,0.083
+Cattle,AM,Ringworm,2016-11,Wales,10,12056,16,0.083
+Cattle,AM,Ringworm,2016-12,Wales,12,10543,17,0.114
+Cattle,AM,Ringworm,2017-01,Wales,12,10633,16,0.113
+Cattle,AM,Ringworm,2017-02,Wales,6,9518,16,0.063
+Cattle,AM,Ringworm,2017-03,Wales,8,11767,17,0.068
+Cattle,AM,Slaughtered in Lairage,2016-07,England,53,110032,148,0.048
+Cattle,AM,Slaughtered in Lairage,2016-08,England,73,117810,149,0.062
+Cattle,AM,Slaughtered in Lairage,2016-09,England,80,133762,149,0.06
+Cattle,AM,Slaughtered in Lairage,2016-10,England,61,135283,149,0.045
+Cattle,AM,Slaughtered in Lairage,2016-11,England,50,148811,150,0.034
+Cattle,AM,Slaughtered in Lairage,2016-12,England,44,116776,143,0.038
+Cattle,AM,Slaughtered in Lairage,2017-01,England,45,124439,148,0.036
+Cattle,AM,Slaughtered in Lairage,2017-02,England,43,116195,149,0.037
+Cattle,AM,Slaughtered in Lairage,2017-03,England,68,136221,148,0.05
+Cattle,AM,Slaughtered in Lairage,2016-08,Wales,2,10297,17,0.019
+Cattle,AM,Slaughtered in Lairage,2016-09,Wales,4,11851,16,0.034
+Cattle,AM,Slaughtered in Lairage,2016-10,Wales,7,10813,17,0.065
+Cattle,AM,Slaughtered in Lairage,2016-11,Wales,1,12056,16,0.008
+Cattle,AM,Slaughtered in Lairage,2016-12,Wales,2,10543,17,0.019
+Cattle,AM,Slaughtered in Lairage,2017-01,Wales,2,10633,16,0.019
+Cattle,AM,Slaughtered in Lairage,2017-03,Wales,2,11767,17,0.017
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-07,England,361,110032,148,0.328
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-08,England,397,117810,149,0.337
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-09,England,390,133762,149,0.292
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-10,England,381,135283,149,0.282
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-11,England,474,148811,150,0.319
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-12,England,444,116776,143,0.38
+Cattle,AM,Suspect Emaciation/Poor Condition,2017-01,England,331,124439,148,0.266
+Cattle,AM,Suspect Emaciation/Poor Condition,2017-02,England,355,116195,149,0.306
+Cattle,AM,Suspect Emaciation/Poor Condition,2017-03,England,461,136221,148,0.338
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-08,Wales,13,10297,17,0.126
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-09,Wales,12,11851,16,0.101
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-10,Wales,8,10813,17,0.074
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-11,Wales,3,12056,16,0.025
+Cattle,AM,Suspect Emaciation/Poor Condition,2016-12,Wales,11,10543,17,0.104
+Cattle,AM,Suspect Emaciation/Poor Condition,2017-01,Wales,1,10633,16,0.009
+Cattle,AM,Suspect Emaciation/Poor Condition,2017-02,Wales,3,9518,16,0.032
+Cattle,AM,Suspect Emaciation/Poor Condition,2017-03,Wales,1,11767,17,0.008
+Cattle,AM,Suspect Fever,2016-07,England,2,110032,148,0.002
+Cattle,AM,Suspect Fever,2016-08,England,7,117810,149,0.006
+Cattle,AM,Suspect Fever,2016-09,England,11,133762,149,0.008
+Cattle,AM,Suspect Fever,2016-10,England,12,135283,149,0.009
+Cattle,AM,Suspect Fever,2016-11,England,9,148811,150,0.006
+Cattle,AM,Suspect Fever,2016-12,England,4,116776,143,0.003
+Cattle,AM,Suspect Fever,2017-01,England,9,124439,148,0.007
+Cattle,AM,Suspect Fever,2017-02,England,8,116195,149,0.007
+Cattle,AM,Suspect Fever,2017-03,England,14,136221,148,0.01
+Cattle,AM,Suspect Notifiable Diseases,2016-09,England,2,133762,149,0.001
+Cattle,AM,Suspect Notifiable Diseases,2016-11,England,1,148811,150,0.001
+Cattle,AM,Suspect Residues,2016-08,England,1,117810,149,0.001
+Cattle,AM,Suspect Residues,2016-09,England,1,133762,149,0.001
+Cattle,AM,Suspect Residues,2016-12,England,3,116776,143,0.003
+Cattle,AM,Suspect Residues,2017-02,England,3,116195,149,0.003
+Cattle,AM,Suspect Residues,2017-03,England,1,136221,148,0.001
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-07,England,18,110032,148,0.016
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-08,England,21,117810,149,0.018
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-09,England,15,133762,149,0.011
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-10,England,9,135283,149,0.007
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-11,England,14,148811,150,0.009
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-12,England,17,116776,143,0.015
+Cattle,AM,Trauma ? Fracture/ Dislocations,2017-01,England,15,124439,148,0.012
+Cattle,AM,Trauma ? Fracture/ Dislocations,2017-02,England,15,116195,149,0.013
+Cattle,AM,Trauma ? Fracture/ Dislocations,2017-03,England,10,136221,148,0.007
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-08,Wales,5,10297,17,0.049
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-09,Wales,2,11851,16,0.017
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-10,Wales,3,10813,17,0.028
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-11,Wales,2,12056,16,0.017
+Cattle,AM,Trauma ? Fracture/ Dislocations,2016-12,Wales,1,10543,17,0.009
+Cattle,AM,Trauma ? Fracture/ Dislocations,2017-01,Wales,1,10633,16,0.009
+Cattle,AM,Trauma ? Fracture/ Dislocations,2017-02,Wales,2,9518,16,0.021
+Cattle,AM,Trauma ? Fracture/ Dislocations,2017-03,Wales,2,11767,17,0.017
+Cattle,AM,Trauma ? Soft Tissue,2016-07,England,154,110032,148,0.14
+Cattle,AM,Trauma ? Soft Tissue,2016-08,England,111,117810,149,0.094
+Cattle,AM,Trauma ? Soft Tissue,2016-09,England,100,133762,149,0.075
+Cattle,AM,Trauma ? Soft Tissue,2016-10,England,95,135283,149,0.07
+Cattle,AM,Trauma ? Soft Tissue,2016-11,England,88,148811,150,0.059
+Cattle,AM,Trauma ? Soft Tissue,2016-12,England,71,116776,143,0.061
+Cattle,AM,Trauma ? Soft Tissue,2017-01,England,97,124439,148,0.078
+Cattle,AM,Trauma ? Soft Tissue,2017-02,England,94,116195,149,0.081
+Cattle,AM,Trauma ? Soft Tissue,2017-03,England,97,136221,148,0.071
+Cattle,AM,Trauma ? Soft Tissue,2016-07,Wales,2,5093,15,0.039
+Cattle,AM,Trauma ? Soft Tissue,2016-08,Wales,5,10297,17,0.049
+Cattle,AM,Trauma ? Soft Tissue,2016-09,Wales,1,11851,16,0.008
+Cattle,AM,Trauma ? Soft Tissue,2016-11,Wales,2,12056,16,0.017
+Cattle,AM,Trauma ? Soft Tissue,2016-12,Wales,1,10543,17,0.009
+Cattle,AM,Trauma ? Soft Tissue,2017-01,Wales,2,10633,16,0.019
+Cattle,Carcases,Abscesses ? Forequarters,2016-07,England,207,110032,148,0.188
+Cattle,Carcases,Abscesses ? Forequarters,2016-08,England,254,117810,149,0.216
+Cattle,Carcases,Abscesses ? Forequarters,2016-09,England,305,133762,149,0.228
+Cattle,Carcases,Abscesses ? Forequarters,2016-10,England,275,135283,149,0.203
+Cattle,Carcases,Abscesses ? Forequarters,2016-11,England,374,148811,150,0.251
+Cattle,Carcases,Abscesses ? Forequarters,2016-12,England,282,116776,143,0.241
+Cattle,Carcases,Abscesses ? Forequarters,2017-01,England,367,124439,148,0.295
+Cattle,Carcases,Abscesses ? Forequarters,2017-02,England,312,116195,149,0.269
+Cattle,Carcases,Abscesses ? Forequarters,2017-03,England,402,136221,148,0.295
+Cattle,Carcases,Abscesses ? Forequarters,2016-07,Wales,8,5093,15,0.157
+Cattle,Carcases,Abscesses ? Forequarters,2016-08,Wales,11,10297,17,0.107
+Cattle,Carcases,Abscesses ? Forequarters,2016-09,Wales,27,11851,16,0.228
+Cattle,Carcases,Abscesses ? Forequarters,2016-10,Wales,8,10813,17,0.074
+Cattle,Carcases,Abscesses ? Forequarters,2016-11,Wales,6,12056,16,0.05
+Cattle,Carcases,Abscesses ? Forequarters,2016-12,Wales,9,10543,17,0.085
+Cattle,Carcases,Abscesses ? Forequarters,2017-01,Wales,2,10633,16,0.019
+Cattle,Carcases,Abscesses ? Forequarters,2017-02,Wales,1,9518,16,0.011
+Cattle,Carcases,Abscesses ? Forequarters,2017-03,Wales,10,11767,17,0.085
+Cattle,Carcases,Abscesses ? Hindquarters,2016-07,England,245,110032,148,0.223
+Cattle,Carcases,Abscesses ? Hindquarters,2016-08,England,277,117810,149,0.235
+Cattle,Carcases,Abscesses ? Hindquarters,2016-09,England,386,133762,149,0.289
+Cattle,Carcases,Abscesses ? Hindquarters,2016-10,England,469,135283,149,0.347
+Cattle,Carcases,Abscesses ? Hindquarters,2016-11,England,504,148811,150,0.339
+Cattle,Carcases,Abscesses ? Hindquarters,2016-12,England,437,116776,143,0.374
+Cattle,Carcases,Abscesses ? Hindquarters,2017-01,England,568,124439,148,0.456
+Cattle,Carcases,Abscesses ? Hindquarters,2017-02,England,502,116195,149,0.432
+Cattle,Carcases,Abscesses ? Hindquarters,2017-03,England,563,136221,148,0.413
+Cattle,Carcases,Abscesses ? Hindquarters,2016-07,Wales,11,5093,15,0.216
+Cattle,Carcases,Abscesses ? Hindquarters,2016-08,Wales,17,10297,17,0.165
+Cattle,Carcases,Abscesses ? Hindquarters,2016-09,Wales,17,11851,16,0.143
+Cattle,Carcases,Abscesses ? Hindquarters,2016-10,Wales,12,10813,17,0.111
+Cattle,Carcases,Abscesses ? Hindquarters,2016-11,Wales,13,12056,16,0.108
+Cattle,Carcases,Abscesses ? Hindquarters,2016-12,Wales,19,10543,17,0.18
+Cattle,Carcases,Abscesses ? Hindquarters,2017-01,Wales,15,10633,16,0.141
+Cattle,Carcases,Abscesses ? Hindquarters,2017-02,Wales,15,9518,16,0.158
+Cattle,Carcases,Abscesses ? Hindquarters,2017-03,Wales,6,11767,17,0.051
+Cattle,Carcases,Abscesses ? Neck,2016-07,England,95,110032,148,0.086
+Cattle,Carcases,Abscesses ? Neck,2016-08,England,111,117810,149,0.094
+Cattle,Carcases,Abscesses ? Neck,2016-09,England,126,133762,149,0.094
+Cattle,Carcases,Abscesses ? Neck,2016-10,England,79,135283,149,0.058
+Cattle,Carcases,Abscesses ? Neck,2016-11,England,132,148811,150,0.089
+Cattle,Carcases,Abscesses ? Neck,2016-12,England,127,116776,143,0.109
+Cattle,Carcases,Abscesses ? Neck,2017-01,England,125,124439,148,0.1
+Cattle,Carcases,Abscesses ? Neck,2017-02,England,99,116195,149,0.085
+Cattle,Carcases,Abscesses ? Neck,2017-03,England,140,136221,148,0.103
+Cattle,Carcases,Abscesses ? Neck,2016-07,Wales,2,5093,15,0.039
+Cattle,Carcases,Abscesses ? Neck,2016-08,Wales,1,10297,17,0.01
+Cattle,Carcases,Abscesses ? Neck,2016-09,Wales,1,11851,16,0.008
+Cattle,Carcases,Abscesses ? Neck,2016-11,Wales,1,12056,16,0.008
+Cattle,Carcases,Abscesses ? Neck,2017-01,Wales,1,10633,16,0.009
+Cattle,Carcases,Abscesses ? Neck,2017-02,Wales,1,9518,16,0.011
+Cattle,Carcases,Bruising,2016-07,England,1423,110032,148,1.293
+Cattle,Carcases,Bruising,2016-08,England,1594,117810,149,1.353
+Cattle,Carcases,Bruising,2016-09,England,1556,133762,149,1.163
+Cattle,Carcases,Bruising,2016-10,England,1565,135283,149,1.157
+Cattle,Carcases,Bruising,2016-11,England,1916,148811,150,1.288
+Cattle,Carcases,Bruising,2016-12,England,1520,116776,143,1.302
+Cattle,Carcases,Bruising,2017-01,England,1942,124439,148,1.561
+Cattle,Carcases,Bruising,2017-02,England,1970,116195,149,1.695
+Cattle,Carcases,Bruising,2017-03,England,2140,136221,148,1.571
+Cattle,Carcases,Bruising,2016-07,Wales,10,5093,15,0.196
+Cattle,Carcases,Bruising,2016-08,Wales,10,10297,17,0.097
+Cattle,Carcases,Bruising,2016-09,Wales,22,11851,16,0.186
+Cattle,Carcases,Bruising,2016-10,Wales,10,10813,17,0.092
+Cattle,Carcases,Bruising,2016-11,Wales,8,12056,16,0.066
+Cattle,Carcases,Bruising,2016-12,Wales,14,10543,17,0.133
+Cattle,Carcases,Bruising,2017-01,Wales,12,10633,16,0.113
+Cattle,Carcases,Bruising,2017-02,Wales,2,9518,16,0.021
+Cattle,Carcases,Bruising,2017-03,Wales,9,11767,17,0.076
+Cattle,Carcases,C. Bovis,2016-07,England,6,110032,148,0.005
+Cattle,Carcases,C. Bovis,2016-08,England,1,117810,149,0.001
+Cattle,Carcases,C. Bovis,2016-09,England,7,133762,149,0.005
+Cattle,Carcases,C. Bovis,2016-10,England,5,135283,149,0.004
+Cattle,Carcases,C. Bovis,2016-11,England,4,148811,150,0.003
+Cattle,Carcases,C. Bovis,2016-12,England,3,116776,143,0.003
+Cattle,Carcases,C. Bovis,2017-01,England,3,124439,148,0.002
+Cattle,Carcases,C. Bovis,2017-02,England,4,116195,149,0.003
+Cattle,Carcases,C. Bovis,2017-03,England,4,136221,148,0.003
+Cattle,Carcases,C. Bovis,2016-08,Wales,2,10297,17,0.019
+Cattle,Carcases,C. Bovis,2016-09,Wales,1,11851,16,0.008
+Cattle,Carcases,Contamination,2016-11,England,305,148811,150,0.205
+Cattle,Carcases,Contamination,2016-12,England,1889,116776,143,1.618
+Cattle,Carcases,Contamination,2017-01,England,3016,124439,148,2.424
+Cattle,Carcases,Contamination,2017-02,England,3127,116195,149,2.691
+Cattle,Carcases,Contamination,2017-03,England,4080,136221,148,2.995
+Cattle,Carcases,Contamination,2016-12,Wales,3,10543,17,0.028
+Cattle,Carcases,Contamination,2017-01,Wales,94,10633,16,0.884
+Cattle,Carcases,Contamination,2017-02,Wales,63,9518,16,0.662
+Cattle,Carcases,Contamination,2017-03,Wales,132,11767,17,1.122
+Cattle,Carcases,Hydatid Cyst,2016-07,England,4,110032,148,0.004
+Cattle,Carcases,Hydatid Cyst,2016-08,England,2,117810,149,0.002
+Cattle,Carcases,Hydatid Cyst,2016-09,England,1,133762,149,0.001
+Cattle,Carcases,Hydatid Cyst,2016-11,England,1,148811,150,0.001
+Cattle,Carcases,Hydatid Cyst,2016-12,England,1,116776,143,0.001
+Cattle,Carcases,Hydatid Cyst,2017-02,England,6,116195,149,0.005
+Cattle,Carcases,Hydatid Cyst,2017-03,England,2,136221,148,0.001
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-07,England,303,110032,148,0.275
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-08,England,310,117810,149,0.263
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-09,England,414,133762,149,0.31
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-10,England,497,135283,149,0.367
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-11,England,591,148811,150,0.397
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-12,England,472,116776,143,0.404
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2017-01,England,537,124439,148,0.432
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2017-02,England,447,116195,149,0.385
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2017-03,England,514,136221,148,0.377
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-07,Wales,10,5093,15,0.196
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-08,Wales,16,10297,17,0.155
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-09,Wales,22,11851,16,0.186
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-10,Wales,16,10813,17,0.148
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-11,Wales,33,12056,16,0.274
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2016-12,Wales,13,10543,17,0.123
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2017-01,Wales,15,10633,16,0.141
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2017-02,Wales,14,9518,16,0.147
+Cattle,Carcases,Joint Lesions (Incl. Arthritis),2017-03,Wales,23,11767,17,0.195
+Cattle,Carcases,Other,2016-07,England,1966,110032,148,1.787
+Cattle,Carcases,Other,2016-08,England,2190,117810,149,1.859
+Cattle,Carcases,Other,2016-09,England,2402,133762,149,1.796
+Cattle,Carcases,Other,2016-10,England,2527,135283,149,1.868
+Cattle,Carcases,Other,2016-11,England,3142,148811,150,2.111
+Cattle,Carcases,Other,2016-12,England,2019,116776,143,1.729
+Cattle,Carcases,Other,2017-01,England,2468,124439,148,1.983
+Cattle,Carcases,Other,2017-02,England,2157,116195,149,1.856
+Cattle,Carcases,Other,2017-03,England,2511,136221,148,1.843
+Cattle,Carcases,Other,2016-07,Wales,4,5093,15,0.079
+Cattle,Carcases,Other,2016-08,Wales,8,10297,17,0.078
+Cattle,Carcases,Other,2016-09,Wales,28,11851,16,0.236
+Cattle,Carcases,Other,2016-10,Wales,8,10813,17,0.074
+Cattle,Carcases,Other,2016-11,Wales,14,12056,16,0.116
+Cattle,Carcases,Other,2016-12,Wales,11,10543,17,0.104
+Cattle,Carcases,Other,2017-01,Wales,2,10633,16,0.019
+Cattle,Carcases,Other,2017-02,Wales,9,9518,16,0.095
+Cattle,Carcases,Other,2017-03,Wales,4,11767,17,0.034
+Cattle,Head,C. Bovis,2016-07,England,1,110032,148,0.001
+Cattle,Head,C. Bovis,2016-08,England,3,117810,149,0.003
+Cattle,Head,C. Bovis,2016-09,England,2,133762,149,0.001
+Cattle,Head,C. Bovis,2016-10,England,8,135283,149,0.006
+Cattle,Head,C. Bovis,2016-11,England,9,148811,150,0.006
+Cattle,Head,C. Bovis,2016-12,England,3,116776,143,0.003
+Cattle,Head,C. Bovis,2017-01,England,1,124439,148,0.001
+Cattle,Head,C. Bovis,2017-02,England,2,116195,149,0.002
+Cattle,Head,C. Bovis,2017-03,England,6,136221,148,0.004
+Cattle,Head,C. Bovis,2017-01,Wales,2,10633,16,0.019
+Cattle,Head,Contamination,2016-11,England,159,148811,150,0.107
+Cattle,Head,Contamination,2016-12,England,1000,116776,143,0.856
+Cattle,Head,Contamination,2017-01,England,1495,124439,148,1.201
+Cattle,Head,Contamination,2017-02,England,1273,116195,149,1.096
+Cattle,Head,Contamination,2017-03,England,1660,136221,148,1.219
+Cattle,Head,Contamination,2016-11,Wales,3,12056,16,0.025
+Cattle,Head,Contamination,2016-12,Wales,10,10543,17,0.095
+Cattle,Head,Contamination,2017-01,Wales,25,10633,16,0.235
+Cattle,Head,Contamination,2017-02,Wales,7,9518,16,0.074
+Cattle,Head,Contamination,2017-03,Wales,14,11767,17,0.119
+Cattle,Head,Hydatid Cyst,2016-07,England,1,110032,148,0.001
+Cattle,Head,Hydatid Cyst,2016-08,England,3,117810,149,0.003
+Cattle,Head,Hydatid Cyst,2016-09,England,3,133762,149,0.002
+Cattle,Head,Hydatid Cyst,2016-11,England,2,148811,150,0.001
+Cattle,Head,Hydatid Cyst,2017-02,England,23,116195,149,0.02
+Cattle,Head,Hydatid Cyst,2016-09,Wales,1,11851,16,0.008
+Cattle,Head,Other,2016-07,England,972,110032,148,0.883
+Cattle,Head,Other,2016-08,England,947,117810,149,0.804
+Cattle,Head,Other,2016-09,England,1341,133762,149,1.003
+Cattle,Head,Other,2016-10,England,1432,135283,149,1.059
+Cattle,Head,Other,2016-11,England,1150,148811,150,0.773
+Cattle,Head,Other,2016-12,England,470,116776,143,0.402
+Cattle,Head,Other,2017-01,England,484,124439,148,0.389
+Cattle,Head,Other,2017-02,England,508,116195,149,0.437
+Cattle,Head,Other,2017-03,England,581,136221,148,0.427
+Cattle,Head,Other,2016-07,Wales,39,5093,15,0.766
+Cattle,Head,Other,2016-08,Wales,72,10297,17,0.699
+Cattle,Head,Other,2016-09,Wales,77,11851,16,0.65
+Cattle,Head,Other,2016-10,Wales,111,10813,17,1.027
+Cattle,Head,Other,2016-11,Wales,88,12056,16,0.73
+Cattle,Head,Other,2016-12,Wales,120,10543,17,1.138
+Cattle,Head,Other,2017-01,Wales,135,10633,16,1.27
+Cattle,Head,Other,2017-02,Wales,75,9518,16,0.788
+Cattle,Head,Other,2017-03,Wales,109,11767,17,0.926
+Cattle,Offal,C. Bovis,2016-07,England,6,110032,148,0.005
+Cattle,Offal,C. Bovis,2016-08,England,8,117810,149,0.007
+Cattle,Offal,C. Bovis,2016-09,England,13,133762,149,0.01
+Cattle,Offal,C. Bovis,2016-10,England,16,135283,149,0.012
+Cattle,Offal,C. Bovis,2016-11,England,17,148811,150,0.011
+Cattle,Offal,C. Bovis,2016-12,England,8,116776,143,0.007
+Cattle,Offal,C. Bovis,2017-01,England,11,124439,148,0.009
+Cattle,Offal,C. Bovis,2017-02,England,12,116195,149,0.01
+Cattle,Offal,C. Bovis,2017-03,England,13,136221,148,0.01
+Cattle,Offal,C. Bovis,2016-09,Wales,3,11851,16,0.025
+Cattle,Offal,C. Bovis,2016-11,Wales,1,12056,16,0.008
+Cattle,Offal,C. Bovis,2016-12,Wales,1,10543,17,0.009
+Cattle,Offal,C. Bovis,2017-03,Wales,1,11767,17,0.008
+Cattle,Offal,Contamination,2016-11,England,782,148811,150,0.525
+Cattle,Offal,Contamination,2016-12,England,3888,116776,143,3.329
+Cattle,Offal,Contamination,2017-01,England,5544,124439,148,4.455
+Cattle,Offal,Contamination,2017-02,England,5182,116195,149,4.46
+Cattle,Offal,Contamination,2017-03,England,5799,136221,148,4.257
+Cattle,Offal,Contamination,2016-11,Wales,5,12056,16,0.041
+Cattle,Offal,Contamination,2016-12,Wales,107,10543,17,1.015
+Cattle,Offal,Contamination,2017-01,Wales,86,10633,16,0.809
+Cattle,Offal,Contamination,2017-02,Wales,49,9518,16,0.515
+Cattle,Offal,Contamination,2017-03,Wales,92,11767,17,0.782
+Cattle,Offal,Fluke Immature,2016-07,England,4159,110032,148,3.78
+Cattle,Offal,Fluke Immature,2016-08,England,4315,117810,149,3.663
+Cattle,Offal,Fluke Immature,2016-09,England,4722,133762,149,3.53
+Cattle,Offal,Fluke Immature,2016-10,England,5120,135283,149,3.785
+Cattle,Offal,Fluke Immature,2016-11,England,6405,148811,150,4.304
+Cattle,Offal,Fluke Immature,2016-12,England,4337,116776,143,3.714
+Cattle,Offal,Fluke Immature,2017-01,England,4534,124439,148,3.644
+Cattle,Offal,Fluke Immature,2017-02,England,4408,116195,149,3.794
+Cattle,Offal,Fluke Immature,2017-03,England,5008,136221,148,3.676
+Cattle,Offal,Fluke Immature,2016-07,Wales,252,5093,15,4.948
+Cattle,Offal,Fluke Immature,2016-08,Wales,416,10297,17,4.04
+Cattle,Offal,Fluke Immature,2016-09,Wales,455,11851,16,3.839
+Cattle,Offal,Fluke Immature,2016-10,Wales,365,10813,17,3.376
+Cattle,Offal,Fluke Immature,2016-11,Wales,393,12056,16,3.26
+Cattle,Offal,Fluke Immature,2016-12,Wales,379,10543,17,3.595
+Cattle,Offal,Fluke Immature,2017-01,Wales,277,10633,16,2.605
+Cattle,Offal,Fluke Immature,2017-02,Wales,202,9518,16,2.122
+Cattle,Offal,Fluke Immature,2017-03,Wales,203,11767,17,1.725
+Cattle,Offal,Fluke Mature,2016-07,England,9735,110032,148,8.847
+Cattle,Offal,Fluke Mature,2016-08,England,10455,117810,149,8.874
+Cattle,Offal,Fluke Mature,2016-09,England,11088,133762,149,8.289
+Cattle,Offal,Fluke Mature,2016-10,England,12174,135283,149,8.999
+Cattle,Offal,Fluke Mature,2016-11,England,15248,148811,150,10.247
+Cattle,Offal,Fluke Mature,2016-12,England,12371,116776,143,10.594
+Cattle,Offal,Fluke Mature,2017-01,England,14224,124439,148,11.431
+Cattle,Offal,Fluke Mature,2017-02,England,13115,116195,149,11.287
+Cattle,Offal,Fluke Mature,2017-03,England,14592,136221,148,10.712
+Cattle,Offal,Fluke Mature,2016-07,Wales,397,5093,15,7.795
+Cattle,Offal,Fluke Mature,2016-08,Wales,1075,10297,17,10.44
+Cattle,Offal,Fluke Mature,2016-09,Wales,1476,11851,16,12.455
+Cattle,Offal,Fluke Mature,2016-10,Wales,1410,10813,17,13.04
+Cattle,Offal,Fluke Mature,2016-11,Wales,2001,12056,16,16.598
+Cattle,Offal,Fluke Mature,2016-12,Wales,1775,10543,17,16.836
+Cattle,Offal,Fluke Mature,2017-01,Wales,1502,10633,16,14.126
+Cattle,Offal,Fluke Mature,2017-02,Wales,1212,9518,16,12.734
+Cattle,Offal,Fluke Mature,2017-03,Wales,1668,11767,17,14.175
+Cattle,Offal,Hepatic Scarring,2016-07,England,874,110032,148,0.794
+Cattle,Offal,Hepatic Scarring,2016-08,England,1107,117810,149,0.94
+Cattle,Offal,Hepatic Scarring,2016-09,England,1063,133762,149,0.795
+Cattle,Offal,Hepatic Scarring,2016-10,England,1803,135283,149,1.333
+Cattle,Offal,Hepatic Scarring,2016-11,England,2094,148811,150,1.407
+Cattle,Offal,Hepatic Scarring,2016-12,England,1697,116776,143,1.453
+Cattle,Offal,Hepatic Scarring,2017-01,England,1624,124439,148,1.305
+Cattle,Offal,Hepatic Scarring,2017-02,England,1701,116195,149,1.464
+Cattle,Offal,Hepatic Scarring,2017-03,England,2035,136221,148,1.494
+Cattle,Offal,Hepatic Scarring,2016-07,Wales,94,5093,15,1.846
+Cattle,Offal,Hepatic Scarring,2016-08,Wales,40,10297,17,0.388
+Cattle,Offal,Hepatic Scarring,2016-09,Wales,211,11851,16,1.78
+Cattle,Offal,Hepatic Scarring,2016-10,Wales,89,10813,17,0.823
+Cattle,Offal,Hepatic Scarring,2016-11,Wales,150,12056,16,1.244
+Cattle,Offal,Hepatic Scarring,2016-12,Wales,221,10543,17,2.096
+Cattle,Offal,Hepatic Scarring,2017-01,Wales,234,10633,16,2.201
+Cattle,Offal,Hepatic Scarring,2017-02,Wales,310,9518,16,3.257
+Cattle,Offal,Hepatic Scarring,2017-03,Wales,453,11767,17,3.85
+Cattle,Offal,Hydatid Cysts,2016-07,England,177,110032,148,0.161
+Cattle,Offal,Hydatid Cysts,2016-08,England,145,117810,149,0.123
+Cattle,Offal,Hydatid Cysts,2016-09,England,127,133762,149,0.095
+Cattle,Offal,Hydatid Cysts,2016-10,England,67,135283,149,0.05
+Cattle,Offal,Hydatid Cysts,2016-11,England,109,148811,150,0.073
+Cattle,Offal,Hydatid Cysts,2016-12,England,166,116776,143,0.142
+Cattle,Offal,Hydatid Cysts,2017-01,England,88,124439,148,0.071
+Cattle,Offal,Hydatid Cysts,2017-02,England,124,116195,149,0.107
+Cattle,Offal,Hydatid Cysts,2017-03,England,80,136221,148,0.059
+Cattle,Offal,Hydatid Cysts,2016-07,Wales,1,5093,15,0.02
+Cattle,Offal,Hydatid Cysts,2016-08,Wales,5,10297,17,0.049
+Cattle,Offal,Hydatid Cysts,2016-09,Wales,6,11851,16,0.051
+Cattle,Offal,Hydatid Cysts,2016-10,Wales,7,10813,17,0.065
+Cattle,Offal,Hydatid Cysts,2016-11,Wales,4,12056,16,0.033
+Cattle,Offal,Hydatid Cysts,2016-12,Wales,11,10543,17,0.104
+Cattle,Offal,Hydatid Cysts,2017-01,Wales,3,10633,16,0.028
+Cattle,Offal,Hydatid Cysts,2017-02,Wales,7,9518,16,0.074
+Cattle,Offal,Hydatid Cysts,2017-03,Wales,8,11767,17,0.068
+Cattle,Offal,Liver Abscesses,2016-07,England,5417,110032,148,4.923
+Cattle,Offal,Liver Abscesses,2016-08,England,5996,117810,149,5.09
+Cattle,Offal,Liver Abscesses,2016-09,England,5958,133762,149,4.454
+Cattle,Offal,Liver Abscesses,2016-10,England,6007,135283,149,4.44
+Cattle,Offal,Liver Abscesses,2016-11,England,7201,148811,150,4.839
+Cattle,Offal,Liver Abscesses,2016-12,England,6008,116776,143,5.145
+Cattle,Offal,Liver Abscesses,2017-01,England,6476,124439,148,5.204
+Cattle,Offal,Liver Abscesses,2017-02,England,5992,116195,149,5.157
+Cattle,Offal,Liver Abscesses,2017-03,England,7033,136221,148,5.163
+Cattle,Offal,Liver Abscesses,2016-07,Wales,163,5093,15,3.2
+Cattle,Offal,Liver Abscesses,2016-08,Wales,360,10297,17,3.496
+Cattle,Offal,Liver Abscesses,2016-09,Wales,494,11851,16,4.168
+Cattle,Offal,Liver Abscesses,2016-10,Wales,347,10813,17,3.209
+Cattle,Offal,Liver Abscesses,2016-11,Wales,436,12056,16,3.616
+Cattle,Offal,Liver Abscesses,2016-12,Wales,369,10543,17,3.5
+Cattle,Offal,Liver Abscesses,2017-01,Wales,261,10633,16,2.455
+Cattle,Offal,Liver Abscesses,2017-02,Wales,230,9518,16,2.416
+Cattle,Offal,Liver Abscesses,2017-03,Wales,377,11767,17,3.204
+Cattle,Offal,Lungworm,2016-07,England,254,110032,148,0.231
+Cattle,Offal,Lungworm,2016-08,England,239,117810,149,0.203
+Cattle,Offal,Lungworm,2016-09,England,277,133762,149,0.207
+Cattle,Offal,Lungworm,2016-10,England,179,135283,149,0.132
+Cattle,Offal,Lungworm,2016-11,England,148,148811,150,0.099
+Cattle,Offal,Lungworm,2016-12,England,112,116776,143,0.096
+Cattle,Offal,Lungworm,2017-01,England,109,124439,148,0.088
+Cattle,Offal,Lungworm,2017-02,England,64,116195,149,0.055
+Cattle,Offal,Lungworm,2017-03,England,153,136221,148,0.112
+Cattle,Offal,Lungworm,2016-07,Wales,2,5093,15,0.039
+Cattle,Offal,Lungworm,2016-08,Wales,10,10297,17,0.097
+Cattle,Offal,Lungworm,2016-09,Wales,5,11851,16,0.042
+Cattle,Offal,Lungworm,2016-10,Wales,3,10813,17,0.028
+Cattle,Offal,Lungworm,2016-11,Wales,3,12056,16,0.025
+Cattle,Offal,Lungworm,2016-12,Wales,2,10543,17,0.019
+Cattle,Offal,Lungworm,2017-01,Wales,1,10633,16,0.009
+Cattle,Offal,Lungworm,2017-02,Wales,1,9518,16,0.011
+Cattle,Offal,Lungworm,2017-03,Wales,1,11767,17,0.008
+Cattle,Offal,Other,2016-07,England,7677,110032,148,6.977
+Cattle,Offal,Other,2016-08,England,7534,117810,149,6.395
+Cattle,Offal,Other,2016-09,England,9693,133762,149,7.246
+Cattle,Offal,Other,2016-10,England,8991,135283,149,6.646
+Cattle,Offal,Other,2016-11,England,9686,148811,150,6.509
+Cattle,Offal,Other,2016-12,England,6601,116776,143,5.653
+Cattle,Offal,Other,2017-01,England,6572,124439,148,5.281
+Cattle,Offal,Other,2017-02,England,6459,116195,149,5.559
+Cattle,Offal,Other,2017-03,England,7483,136221,148,5.493
+Cattle,Offal,Other,2016-07,Wales,127,5093,15,2.494
+Cattle,Offal,Other,2016-08,Wales,152,10297,17,1.476
+Cattle,Offal,Other,2016-09,Wales,315,11851,16,2.658
+Cattle,Offal,Other,2016-10,Wales,273,10813,17,2.525
+Cattle,Offal,Other,2016-11,Wales,222,12056,16,1.841
+Cattle,Offal,Other,2016-12,Wales,233,10543,17,2.21
+Cattle,Offal,Other,2017-01,Wales,291,10633,16,2.737
+Cattle,Offal,Other,2017-02,Wales,206,9518,16,2.164
+Cattle,Offal,Other,2017-03,Wales,277,11767,17,2.354
+Cattle,Offal,Pleurisy,2016-07,England,1774,110032,148,1.612
+Cattle,Offal,Pleurisy,2016-08,England,1995,117810,149,1.693
+Cattle,Offal,Pleurisy,2016-09,England,2122,133762,149,1.586
+Cattle,Offal,Pleurisy,2016-10,England,2147,135283,149,1.587
+Cattle,Offal,Pleurisy,2016-11,England,2545,148811,150,1.71
+Cattle,Offal,Pleurisy,2016-12,England,2131,116776,143,1.825
+Cattle,Offal,Pleurisy,2017-01,England,2119,124439,148,1.703
+Cattle,Offal,Pleurisy,2017-02,England,2006,116195,149,1.726
+Cattle,Offal,Pleurisy,2017-03,England,2303,136221,148,1.691
+Cattle,Offal,Pleurisy,2016-07,Wales,24,5093,15,0.471
+Cattle,Offal,Pleurisy,2016-08,Wales,68,10297,17,0.66
+Cattle,Offal,Pleurisy,2016-09,Wales,75,11851,16,0.633
+Cattle,Offal,Pleurisy,2016-10,Wales,49,10813,17,0.453
+Cattle,Offal,Pleurisy,2016-11,Wales,60,12056,16,0.498
+Cattle,Offal,Pleurisy,2016-12,Wales,58,10543,17,0.55
+Cattle,Offal,Pleurisy,2017-01,Wales,50,10633,16,0.47
+Cattle,Offal,Pleurisy,2017-02,Wales,38,9518,16,0.399
+Cattle,Offal,Pleurisy,2017-03,Wales,77,11767,17,0.654
+Cattle,Offal,Pneumonia,2016-07,England,4328,110032,148,3.933
+Cattle,Offal,Pneumonia,2016-08,England,4853,117810,149,4.119
+Cattle,Offal,Pneumonia,2016-09,England,4914,133762,149,3.674
+Cattle,Offal,Pneumonia,2016-10,England,5005,135283,149,3.7
+Cattle,Offal,Pneumonia,2016-11,England,5736,148811,150,3.855
+Cattle,Offal,Pneumonia,2016-12,England,5051,116776,143,4.325
+Cattle,Offal,Pneumonia,2017-01,England,4971,124439,148,3.995
+Cattle,Offal,Pneumonia,2017-02,England,4373,116195,149,3.764
+Cattle,Offal,Pneumonia,2017-03,England,4557,136221,148,3.345
+Cattle,Offal,Pneumonia,2016-07,Wales,143,5093,15,2.808
+Cattle,Offal,Pneumonia,2016-08,Wales,293,10297,17,2.845
+Cattle,Offal,Pneumonia,2016-09,Wales,391,11851,16,3.299
+Cattle,Offal,Pneumonia,2016-10,Wales,234,10813,17,2.164
+Cattle,Offal,Pneumonia,2016-11,Wales,334,12056,16,2.77
+Cattle,Offal,Pneumonia,2016-12,Wales,287,10543,17,2.722
+Cattle,Offal,Pneumonia,2017-01,Wales,242,10633,16,2.276
+Cattle,Offal,Pneumonia,2017-02,Wales,282,9518,16,2.963
+Cattle,Offal,Pneumonia,2017-03,Wales,458,11767,17,3.892
+Cattle,Offal,Traumatic Pericarditis,2016-07,England,362,110032,148,0.329
+Cattle,Offal,Traumatic Pericarditis,2016-08,England,374,117810,149,0.317
+Cattle,Offal,Traumatic Pericarditis,2016-09,England,363,133762,149,0.271
+Cattle,Offal,Traumatic Pericarditis,2016-10,England,444,135283,149,0.328
+Cattle,Offal,Traumatic Pericarditis,2016-11,England,599,148811,150,0.403
+Cattle,Offal,Traumatic Pericarditis,2016-12,England,480,116776,143,0.411
+Cattle,Offal,Traumatic Pericarditis,2017-01,England,438,124439,148,0.352
+Cattle,Offal,Traumatic Pericarditis,2017-02,England,410,116195,149,0.353
+Cattle,Offal,Traumatic Pericarditis,2017-03,England,514,136221,148,0.377
+Cattle,Offal,Traumatic Pericarditis,2016-07,Wales,11,5093,15,0.216
+Cattle,Offal,Traumatic Pericarditis,2016-08,Wales,32,10297,17,0.311
+Cattle,Offal,Traumatic Pericarditis,2016-09,Wales,39,11851,16,0.329
+Cattle,Offal,Traumatic Pericarditis,2016-10,Wales,11,10813,17,0.102
+Cattle,Offal,Traumatic Pericarditis,2016-11,Wales,30,12056,16,0.249
+Cattle,Offal,Traumatic Pericarditis,2016-12,Wales,19,10543,17,0.18
+Cattle,Offal,Traumatic Pericarditis,2017-01,Wales,31,10633,16,0.292
+Cattle,Offal,Traumatic Pericarditis,2017-02,Wales,17,9518,16,0.179
+Cattle,Offal,Traumatic Pericarditis,2017-03,Wales,36,11767,17,0.306
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2016-07,England,7,110032,148,0.006
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2016-08,England,4,117810,149,0.003
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2016-09,England,10,133762,149,0.007
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2016-10,England,4,135283,149,0.003
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2016-11,England,4,148811,150,0.003
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2016-12,England,1,116776,143,0.001
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2017-01,England,4,124439,148,0.003
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2017-02,England,2,116195,149,0.002
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2017-03,England,8,136221,148,0.006
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2016-12,Wales,1,10543,17,0.009
+Cattle,Total Rejections,Abnormal Odour - Uraemia,2017-01,Wales,2,10633,16,0.019
+Cattle,Total Rejections,Contamination,2016-07,England,7,110032,148,0.006
+Cattle,Total Rejections,Contamination,2016-08,England,2,117810,149,0.002
+Cattle,Total Rejections,Contamination,2016-09,England,1,133762,149,0.001
+Cattle,Total Rejections,Contamination,2016-10,England,1,135283,149,0.001
+Cattle,Total Rejections,Contamination,2016-11,England,6,148811,150,0.004
+Cattle,Total Rejections,Contamination,2017-02,England,30,116195,149,0.026
+Cattle,Total Rejections,Contamination,2017-03,England,11,136221,148,0.008
+Cattle,Total Rejections,Contaminaton,2016-12,England,10,116776,143,0.009
+Cattle,Total Rejections,Generalised C. Bovis ,2016-09,England,1,133762,149,0.001
+Cattle,Total Rejections,Generalised C. Bovis ,2016-10,England,3,135283,149,0.002
+Cattle,Total Rejections,Generalised C. Bovis ,2016-11,England,1,148811,150,0.001
+Cattle,Total Rejections,Generalised C. Bovis ,2016-12,England,2,116776,143,0.002
+Cattle,Total Rejections,Generalised C. Bovis ,2017-01,England,2,124439,148,0.002
+Cattle,Total Rejections,Generalised C. Bovis ,2017-02,England,1,116195,149,0.001
+Cattle,Total Rejections,Generalised C. Bovis ,2017-03,England,2,136221,148,0.001
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-07,England,166,110032,148,0.151
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-08,England,127,117810,149,0.108
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-09,England,168,133762,149,0.126
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-10,England,189,135283,149,0.14
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-11,England,133,148811,150,0.089
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-12,England,97,116776,143,0.083
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2017-01,England,66,124439,148,0.053
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2017-02,England,82,116195,149,0.071
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2017-03,England,113,136221,148,0.083
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-07,Wales,4,5093,15,0.079
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-08,Wales,10,10297,17,0.097
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-09,Wales,8,11851,16,0.068
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-10,Wales,7,10813,17,0.065
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-11,Wales,10,12056,16,0.083
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2016-12,Wales,5,10543,17,0.047
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2017-01,Wales,2,10633,16,0.019
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2017-02,Wales,7,9518,16,0.074
+Cattle,Total Rejections,Generalised Oedema/Emaciation,2017-03,Wales,9,11767,17,0.076
+Cattle,Total Rejections,Generalised TB (Suspect),2016-07,England,75,110032,148,0.068
+Cattle,Total Rejections,Generalised TB (Suspect),2016-08,England,71,117810,149,0.06
+Cattle,Total Rejections,Generalised TB (Suspect),2016-09,England,60,133762,149,0.045
+Cattle,Total Rejections,Generalised TB (Suspect),2016-10,England,76,135283,149,0.056
+Cattle,Total Rejections,Generalised TB (Suspect),2016-11,England,92,148811,150,0.062
+Cattle,Total Rejections,Generalised TB (Suspect),2016-12,England,68,116776,143,0.058
+Cattle,Total Rejections,Generalised TB (Suspect),2017-01,England,71,124439,148,0.057
+Cattle,Total Rejections,Generalised TB (Suspect),2017-02,England,61,116195,149,0.052
+Cattle,Total Rejections,Generalised TB (Suspect),2017-03,England,124,136221,148,0.091
+Cattle,Total Rejections,Generalised TB (Suspect),2016-07,Wales,38,5093,15,0.746
+Cattle,Total Rejections,Generalised TB (Suspect),2016-08,Wales,24,10297,17,0.233
+Cattle,Total Rejections,Generalised TB (Suspect),2016-09,Wales,21,11851,16,0.177
+Cattle,Total Rejections,Generalised TB (Suspect),2016-10,Wales,49,10813,17,0.453
+Cattle,Total Rejections,Generalised TB (Suspect),2016-11,Wales,40,12056,16,0.332
+Cattle,Total Rejections,Generalised TB (Suspect),2016-12,Wales,37,10543,17,0.351
+Cattle,Total Rejections,Generalised TB (Suspect),2017-01,Wales,28,10633,16,0.263
+Cattle,Total Rejections,Generalised TB (Suspect),2017-02,Wales,29,9518,16,0.305
+Cattle,Total Rejections,Generalised TB (Suspect),2017-03,Wales,35,11767,17,0.297
+Cattle,Total Rejections,Hydatidosis,2016-08,England,1,117810,149,0.001
+Cattle,Total Rejections,Hydatidosis,2016-09,England,2,133762,149,0.001
+Cattle,Total Rejections,Hydatidosis,2017-01,England,1,124439,148,0.001
+Cattle,Total Rejections,Immaturity/ Less than 7 days old,2016-08,England,1,117810,149,0.001
+Cattle,Total Rejections,Immaturity/ Less than 7 days old,2016-09,England,1,133762,149,0.001
+Cattle,Total Rejections,Jaundice,2016-08,England,1,117810,149,0.001
+Cattle,Total Rejections,Jaundice,2016-09,England,3,133762,149,0.002
+Cattle,Total Rejections,Jaundice,2016-10,England,1,135283,149,0.001
+Cattle,Total Rejections,Jaundice,2016-12,England,1,116776,143,0.001
+Cattle,Total Rejections,Jaundice,2017-02,England,1,116195,149,0.001
+Cattle,Total Rejections,Navel ill/joint ill for young animals,2016-09,England,1,133762,149,0.001
+Cattle,Total Rejections,Navel ill/joint ill for young animals,2016-11,England,2,148811,150,0.001
+Cattle,Total Rejections,Navel ill/joint ill for young animals,2017-03,England,2,136221,148,0.001
+Cattle,Total Rejections,Navel ill/joint ill for young animals,2016-09,Wales,1,11851,16,0.008
+Cattle,Total Rejections,Navel ill/joint ill for young animals,2017-02,Wales,1,9518,16,0.011
+Cattle,Total Rejections,Other,2016-07,England,33,110032,148,0.03
+Cattle,Total Rejections,Other,2016-08,England,40,117810,149,0.034
+Cattle,Total Rejections,Other,2016-09,England,48,133762,149,0.036
+Cattle,Total Rejections,Other,2016-10,England,43,135283,149,0.032
+Cattle,Total Rejections,Other,2016-11,England,61,148811,150,0.041
+Cattle,Total Rejections,Other,2016-12,England,48,116776,143,0.041
+Cattle,Total Rejections,Other,2017-01,England,56,124439,148,0.045
+Cattle,Total Rejections,Other,2017-02,England,43,116195,149,0.037
+Cattle,Total Rejections,Other,2017-03,England,59,136221,148,0.043
+Cattle,Total Rejections,Other,2016-08,Wales,2,10297,17,0.019
+Cattle,Total Rejections,Other,2016-09,Wales,1,11851,16,0.008
+Cattle,Total Rejections,Other,2016-10,Wales,3,10813,17,0.028
+Cattle,Total Rejections,Other,2016-11,Wales,2,12056,16,0.017
+Cattle,Total Rejections,Other,2016-12,Wales,3,10543,17,0.028
+Cattle,Total Rejections,Other,2017-02,Wales,1,9518,16,0.011
+Cattle,Total Rejections,Other,2017-03,Wales,1,11767,17,0.008
+Cattle,Total Rejections,Processing Fault,2016-08,England,1,117810,149,0.001
+Cattle,Total Rejections,Processing Fault,2016-09,England,1,133762,149,0.001
+Cattle,Total Rejections,Processing Fault,2017-03,England,1,136221,148,0.001
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-07,England,47,110032,148,0.043
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-08,England,41,117810,149,0.035
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-09,England,59,133762,149,0.044
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-10,England,64,135283,149,0.047
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-11,England,60,148811,150,0.04
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-12,England,64,116776,143,0.055
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2017-01,England,56,124439,148,0.045
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2017-02,England,42,116195,149,0.036
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2017-03,England,79,136221,148,0.058
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-07,Wales,4,5093,15,0.079
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-08,Wales,7,10297,17,0.068
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-09,Wales,13,11851,16,0.11
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-10,Wales,13,10813,17,0.12
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-11,Wales,14,12056,16,0.116
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2016-12,Wales,10,10543,17,0.095
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2017-01,Wales,8,10633,16,0.075
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2017-02,Wales,15,9518,16,0.158
+Cattle,Total Rejections,Pyaemia/ Multiple abscesses,2017-03,Wales,17,11767,17,0.144
+Cattle,Total Rejections,Septicaemia / Fever,2016-07,England,96,110032,148,0.087
+Cattle,Total Rejections,Septicaemia / Fever,2016-08,England,79,117810,149,0.067
+Cattle,Total Rejections,Septicaemia / Fever,2016-09,England,119,133762,149,0.089
+Cattle,Total Rejections,Septicaemia / Fever,2016-10,England,78,135283,149,0.058
+Cattle,Total Rejections,Septicaemia / Fever,2016-11,England,124,148811,150,0.083
+Cattle,Total Rejections,Septicaemia / Fever,2016-12,England,84,116776,143,0.072
+Cattle,Total Rejections,Septicaemia / Fever,2017-01,England,90,124439,148,0.072
+Cattle,Total Rejections,Septicaemia / Fever,2017-02,England,87,116195,149,0.075
+Cattle,Total Rejections,Septicaemia / Fever,2017-03,England,127,136221,148,0.093
+Cattle,Total Rejections,Septicaemia / Fever,2016-07,Wales,1,5093,15,0.02
+Cattle,Total Rejections,Septicaemia / Fever,2016-08,Wales,2,10297,17,0.019
+Cattle,Total Rejections,Septicaemia / Fever,2016-09,Wales,5,11851,16,0.042
+Cattle,Total Rejections,Septicaemia / Fever,2016-10,Wales,7,10813,17,0.065
+Cattle,Total Rejections,Septicaemia / Fever,2016-11,Wales,8,12056,16,0.066
+Cattle,Total Rejections,Septicaemia / Fever,2016-12,Wales,4,10543,17,0.038
+Cattle,Total Rejections,Septicaemia / Fever,2017-01,Wales,2,10633,16,0.019
+Cattle,Total Rejections,Septicaemia / Fever,2017-02,Wales,7,9518,16,0.074
+Cattle,Total Rejections,Septicaemia / Fever,2017-03,Wales,19,11767,17,0.161
